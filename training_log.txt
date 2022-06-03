@@ -1,0 +1,691 @@
+  next_state_values[non_final_mask] = self.target_net(non_final_next_states).max(1)[0].detach()
+Episode 31/200 Duration: 200 AVG: 0
+Policy Reward: 200
+ 16%|████████████████████▊                                                                                                             | 32/200 [00:13<01:57,  1.43it/s]/Users/tuhinatripathi/Desktop/Desktop – Tuhina’s MacBook Air/CU/Thesis/Cartpole-IRL/dqn.py:129: UserWarning: indexing with dtype torch.uint8 is now deprecated, please use a dtype torch.bool instead. (Triggered internally at  /Users/distiller/project/conda/conda-bld/pytorch_1646756029501/work/aten/src/ATen/native/IndexingUtils.h:28.)
+  next_state_values[non_final_mask] = self.target_net(non_final_next_states).max(1)[0].detach()
+Episode 32/200 Duration: 200 AVG: 0
+Policy Reward: 200
+ 16%|█████████████████████▍                                                                                                            | 33/200 [00:13<01:54,  1.46it/s]/Users/tuhinatripathi/Desktop/Desktop – Tuhina’s MacBook Air/CU/Thesis/Cartpole-IRL/dqn.py:129: UserWarning: indexing with dtype torch.uint8 is now deprecated, please use a dtype torch.bool instead. (Triggered internally at  /Users/distiller/project/conda/conda-bld/pytorch_1646756029501/work/aten/src/ATen/native/IndexingUtils.h:28.)
+  next_state_values[non_final_mask] = self.target_net(non_final_next_states).max(1)[0].detach()
+Episode 33/200 Duration: 200 AVG: 0
+Policy Reward: 200
+ 17%|██████████████████████                                                                                                            | 34/200 [00:14<01:51,  1.49it/s]/Users/tuhinatripathi/Desktop/Desktop – Tuhina’s MacBook Air/CU/Thesis/Cartpole-IRL/dqn.py:129: UserWarning: indexing with dtype torch.uint8 is now deprecated, please use a dtype torch.bool instead. (Triggered internally at  /Users/distiller/project/conda/conda-bld/pytorch_1646756029501/work/aten/src/ATen/native/IndexingUtils.h:28.)
+  next_state_values[non_final_mask] = self.target_net(non_final_next_states).max(1)[0].detach()
+Episode 34/200 Duration: 200 AVG: 0
+Policy Reward: 200
+ 18%|██████████████████████▊                                                                                                           | 35/200 [00:15<01:49,  1.51it/s]/Users/tuhinatripathi/Desktop/Desktop – Tuhina’s MacBook Air/CU/Thesis/Cartpole-IRL/dqn.py:129: UserWarning: indexing with dtype torch.uint8 is now deprecated, please use a dtype torch.bool instead. (Triggered internally at  /Users/distiller/project/conda/conda-bld/pytorch_1646756029501/work/aten/src/ATen/native/IndexingUtils.h:28.)
+  next_state_values[non_final_mask] = self.target_net(non_final_next_states).max(1)[0].detach()
+Episode 35/200 Duration: 200 AVG: 0
+Policy Reward: 180
+ 18%|███████████████████████▍                                                                                                          | 36/200 [00:15<01:49,  1.50it/s]/Users/tuhinatripathi/Desktop/Desktop – Tuhina’s MacBook Air/CU/Thesis/Cartpole-IRL/dqn.py:129: UserWarning: indexing with dtype torch.uint8 is now deprecated, please use a dtype torch.bool instead. (Triggered internally at  /Users/distiller/project/conda/conda-bld/pytorch_1646756029501/work/aten/src/ATen/native/IndexingUtils.h:28.)
+  next_state_values[non_final_mask] = self.target_net(non_final_next_states).max(1)[0].detach()
+Episode 36/200 Duration: 200 AVG: 0
+Policy Reward: 200
+ 18%|████████████████████████                                                                                                          | 37/200 [00:16<01:48,  1.51it/s]/Users/tuhinatripathi/Desktop/Desktop – Tuhina’s MacBook Air/CU/Thesis/Cartpole-IRL/dqn.py:129: UserWarning: indexing with dtype torch.uint8 is now deprecated, please use a dtype torch.bool instead. (Triggered internally at  /Users/distiller/project/conda/conda-bld/pytorch_1646756029501/work/aten/src/ATen/native/IndexingUtils.h:28.)
+  next_state_values[non_final_mask] = self.target_net(non_final_next_states).max(1)[0].detach()
+Episode 37/200 Duration: 176 AVG: 0
+Policy Reward: 200
+ 19%|████████████████████████▋                                                                                                         | 38/200 [00:16<01:43,  1.57it/s]/Users/tuhinatripathi/Desktop/Desktop – Tuhina’s MacBook Air/CU/Thesis/Cartpole-IRL/dqn.py:129: UserWarning: indexing with dtype torch.uint8 is now deprecated, please use a dtype torch.bool instead. (Triggered internally at  /Users/distiller/project/conda/conda-bld/pytorch_1646756029501/work/aten/src/ATen/native/IndexingUtils.h:28.)
+  next_state_values[non_final_mask] = self.target_net(non_final_next_states).max(1)[0].detach()
+Episode 38/200 Duration: 190 AVG: 0
+Policy Reward: 103
+ 20%|█████████████████████████▎                                                                                                        | 39/200 [00:17<01:41,  1.59it/s]/Users/tuhinatripathi/Desktop/Desktop – Tuhina’s MacBook Air/CU/Thesis/Cartpole-IRL/dqn.py:129: UserWarning: indexing with dtype torch.uint8 is now deprecated, please use a dtype torch.bool instead. (Triggered internally at  /Users/distiller/project/conda/conda-bld/pytorch_1646756029501/work/aten/src/ATen/native/IndexingUtils.h:28.)
+  next_state_values[non_final_mask] = self.target_net(non_final_next_states).max(1)[0].detach()
+Episode 39/200 Duration: 200 AVG: 0
+Policy Reward: 129
+ 20%|██████████████████████████                                                                                                        | 40/200 [00:18<01:41,  1.57it/s]/Users/tuhinatripathi/Desktop/Desktop – Tuhina’s MacBook Air/CU/Thesis/Cartpole-IRL/dqn.py:129: UserWarning: indexing with dtype torch.uint8 is now deprecated, please use a dtype torch.bool instead. (Triggered internally at  /Users/distiller/project/conda/conda-bld/pytorch_1646756029501/work/aten/src/ATen/native/IndexingUtils.h:28.)
+  next_state_values[non_final_mask] = self.target_net(non_final_next_states).max(1)[0].detach()
+Episode 40/200 Duration: 136 AVG: 0
+Policy Reward: 200
+ 20%|██████████████████████████▋                                                                                                       | 41/200 [00:18<01:35,  1.67it/s]/Users/tuhinatripathi/Desktop/Desktop – Tuhina’s MacBook Air/CU/Thesis/Cartpole-IRL/dqn.py:129: UserWarning: indexing with dtype torch.uint8 is now deprecated, please use a dtype torch.bool instead. (Triggered internally at  /Users/distiller/project/conda/conda-bld/pytorch_1646756029501/work/aten/src/ATen/native/IndexingUtils.h:28.)
+  next_state_values[non_final_mask] = self.target_net(non_final_next_states).max(1)[0].detach()
+Episode 41/200 Duration: 200 AVG: 0
+Policy Reward: 200
+ 21%|███████████████████████████▎                                                                                                      | 42/200 [00:19<01:38,  1.61it/s]/Users/tuhinatripathi/Desktop/Desktop – Tuhina’s MacBook Air/CU/Thesis/Cartpole-IRL/dqn.py:129: UserWarning: indexing with dtype torch.uint8 is now deprecated, please use a dtype torch.bool instead. (Triggered internally at  /Users/distiller/project/conda/conda-bld/pytorch_1646756029501/work/aten/src/ATen/native/IndexingUtils.h:28.)
+  next_state_values[non_final_mask] = self.target_net(non_final_next_states).max(1)[0].detach()
+Episode 42/200 Duration: 200 AVG: 0
+Policy Reward: 200
+ 22%|███████████████████████████▉                                                                                                      | 43/200 [00:20<01:39,  1.58it/s]/Users/tuhinatripathi/Desktop/Desktop – Tuhina’s MacBook Air/CU/Thesis/Cartpole-IRL/dqn.py:129: UserWarning: indexing with dtype torch.uint8 is now deprecated, please use a dtype torch.bool instead. (Triggered internally at  /Users/distiller/project/conda/conda-bld/pytorch_1646756029501/work/aten/src/ATen/native/IndexingUtils.h:28.)
+  next_state_values[non_final_mask] = self.target_net(non_final_next_states).max(1)[0].detach()
+Episode 43/200 Duration: 200 AVG: 0
+Policy Reward: 200
+ 22%|████████████████████████████▌                                                                                                     | 44/200 [00:20<01:39,  1.56it/s]/Users/tuhinatripathi/Desktop/Desktop – Tuhina’s MacBook Air/CU/Thesis/Cartpole-IRL/dqn.py:129: UserWarning: indexing with dtype torch.uint8 is now deprecated, please use a dtype torch.bool instead. (Triggered internally at  /Users/distiller/project/conda/conda-bld/pytorch_1646756029501/work/aten/src/ATen/native/IndexingUtils.h:28.)
+  next_state_values[non_final_mask] = self.target_net(non_final_next_states).max(1)[0].detach()
+Episode 44/200 Duration: 200 AVG: 0
+Policy Reward: 200
+ 22%|█████████████████████████████▎                                                                                                    | 45/200 [00:21<01:39,  1.56it/s]/Users/tuhinatripathi/Desktop/Desktop – Tuhina’s MacBook Air/CU/Thesis/Cartpole-IRL/dqn.py:129: UserWarning: indexing with dtype torch.uint8 is now deprecated, please use a dtype torch.bool instead. (Triggered internally at  /Users/distiller/project/conda/conda-bld/pytorch_1646756029501/work/aten/src/ATen/native/IndexingUtils.h:28.)
+  next_state_values[non_final_mask] = self.target_net(non_final_next_states).max(1)[0].detach()
+Episode 45/200 Duration: 200 AVG: 0
+Policy Reward: 200
+ 23%|█████████████████████████████▉                                                                                                    | 46/200 [00:22<01:40,  1.52it/s]/Users/tuhinatripathi/Desktop/Desktop – Tuhina’s MacBook Air/CU/Thesis/Cartpole-IRL/dqn.py:129: UserWarning: indexing with dtype torch.uint8 is now deprecated, please use a dtype torch.bool instead. (Triggered internally at  /Users/distiller/project/conda/conda-bld/pytorch_1646756029501/work/aten/src/ATen/native/IndexingUtils.h:28.)
+  next_state_values[non_final_mask] = self.target_net(non_final_next_states).max(1)[0].detach()
+Episode 46/200 Duration: 200 AVG: 0
+Policy Reward: 200
+ 24%|██████████████████████████████▌                                                                                                   | 47/200 [00:22<01:47,  1.42it/s]/Users/tuhinatripathi/Desktop/Desktop – Tuhina’s MacBook Air/CU/Thesis/Cartpole-IRL/dqn.py:129: UserWarning: indexing with dtype torch.uint8 is now deprecated, please use a dtype torch.bool instead. (Triggered internally at  /Users/distiller/project/conda/conda-bld/pytorch_1646756029501/work/aten/src/ATen/native/IndexingUtils.h:28.)
+  next_state_values[non_final_mask] = self.target_net(non_final_next_states).max(1)[0].detach()
+Episode 47/200 Duration: 200 AVG: 0
+Policy Reward: 200
+ 24%|███████████████████████████████▏                                                                                                  | 48/200 [00:23<01:46,  1.43it/s]/Users/tuhinatripathi/Desktop/Desktop – Tuhina’s MacBook Air/CU/Thesis/Cartpole-IRL/dqn.py:129: UserWarning: indexing with dtype torch.uint8 is now deprecated, please use a dtype torch.bool instead. (Triggered internally at  /Users/distiller/project/conda/conda-bld/pytorch_1646756029501/work/aten/src/ATen/native/IndexingUtils.h:28.)
+  next_state_values[non_final_mask] = self.target_net(non_final_next_states).max(1)[0].detach()
+Episode 48/200 Duration: 200 AVG: 0
+Policy Reward: 200
+ 24%|███████████████████████████████▊                                                                                                  | 49/200 [00:24<01:43,  1.45it/s]/Users/tuhinatripathi/Desktop/Desktop – Tuhina’s MacBook Air/CU/Thesis/Cartpole-IRL/dqn.py:129: UserWarning: indexing with dtype torch.uint8 is now deprecated, please use a dtype torch.bool instead. (Triggered internally at  /Users/distiller/project/conda/conda-bld/pytorch_1646756029501/work/aten/src/ATen/native/IndexingUtils.h:28.)
+  next_state_values[non_final_mask] = self.target_net(non_final_next_states).max(1)[0].detach()
+Episode 49/200 Duration: 200 AVG: 0
+Policy Reward: 200
+ 25%|████████████████████████████████▌                                                                                                 | 50/200 [00:25<02:18,  1.08it/s]/Users/tuhinatripathi/Desktop/Desktop – Tuhina’s MacBook Air/CU/Thesis/Cartpole-IRL/dqn.py:129: UserWarning: indexing with dtype torch.uint8 is now deprecated, please use a dtype torch.bool instead. (Triggered internally at  /Users/distiller/project/conda/conda-bld/pytorch_1646756029501/work/aten/src/ATen/native/IndexingUtils.h:28.)
+  next_state_values[non_final_mask] = self.target_net(non_final_next_states).max(1)[0].detach()
+Episode 50/200 Duration: 200 AVG: 0
+Policy Reward: 200
+ 26%|█████████████████████████████████▏                                                                                                | 51/200 [00:26<02:20,  1.06it/s]/Users/tuhinatripathi/Desktop/Desktop – Tuhina’s MacBook Air/CU/Thesis/Cartpole-IRL/dqn.py:129: UserWarning: indexing with dtype torch.uint8 is now deprecated, please use a dtype torch.bool instead. (Triggered internally at  /Users/distiller/project/conda/conda-bld/pytorch_1646756029501/work/aten/src/ATen/native/IndexingUtils.h:28.)
+  next_state_values[non_final_mask] = self.target_net(non_final_next_states).max(1)[0].detach()
+Episode 51/200 Duration: 200 AVG: 0
+Policy Reward: 200
+ 26%|█████████████████████████████████▊                                                                                                | 52/200 [00:27<02:13,  1.11it/s]/Users/tuhinatripathi/Desktop/Desktop – Tuhina’s MacBook Air/CU/Thesis/Cartpole-IRL/dqn.py:129: UserWarning: indexing with dtype torch.uint8 is now deprecated, please use a dtype torch.bool instead. (Triggered internally at  /Users/distiller/project/conda/conda-bld/pytorch_1646756029501/work/aten/src/ATen/native/IndexingUtils.h:28.)
+  next_state_values[non_final_mask] = self.target_net(non_final_next_states).max(1)[0].detach()
+Episode 52/200 Duration: 200 AVG: 0
+Policy Reward: 200
+ 26%|██████████████████████████████████▍                                                                                               | 53/200 [00:28<02:07,  1.15it/s]/Users/tuhinatripathi/Desktop/Desktop – Tuhina’s MacBook Air/CU/Thesis/Cartpole-IRL/dqn.py:129: UserWarning: indexing with dtype torch.uint8 is now deprecated, please use a dtype torch.bool instead. (Triggered internally at  /Users/distiller/project/conda/conda-bld/pytorch_1646756029501/work/aten/src/ATen/native/IndexingUtils.h:28.)
+  next_state_values[non_final_mask] = self.target_net(non_final_next_states).max(1)[0].detach()
+Episode 53/200 Duration: 200 AVG: 0
+Policy Reward: 200
+ 27%|███████████████████████████████████                                                                                               | 54/200 [00:29<02:08,  1.14it/s]/Users/tuhinatripathi/Desktop/Desktop – Tuhina’s MacBook Air/CU/Thesis/Cartpole-IRL/dqn.py:129: UserWarning: indexing with dtype torch.uint8 is now deprecated, please use a dtype torch.bool instead. (Triggered internally at  /Users/distiller/project/conda/conda-bld/pytorch_1646756029501/work/aten/src/ATen/native/IndexingUtils.h:28.)
+  next_state_values[non_final_mask] = self.target_net(non_final_next_states).max(1)[0].detach()
+Episode 54/200 Duration: 200 AVG: 0
+Policy Reward: 200
+ 28%|███████████████████████████████████▊                                                                                              | 55/200 [00:30<02:10,  1.11it/s]/Users/tuhinatripathi/Desktop/Desktop – Tuhina’s MacBook Air/CU/Thesis/Cartpole-IRL/dqn.py:129: UserWarning: indexing with dtype torch.uint8 is now deprecated, please use a dtype torch.bool instead. (Triggered internally at  /Users/distiller/project/conda/conda-bld/pytorch_1646756029501/work/aten/src/ATen/native/IndexingUtils.h:28.)
+  next_state_values[non_final_mask] = self.target_net(non_final_next_states).max(1)[0].detach()
+Episode 55/200 Duration: 200 AVG: 0
+Policy Reward: 200
+ 28%|████████████████████████████████████▍                                                                                             | 56/200 [00:30<02:00,  1.20it/s]/Users/tuhinatripathi/Desktop/Desktop – Tuhina’s MacBook Air/CU/Thesis/Cartpole-IRL/dqn.py:129: UserWarning: indexing with dtype torch.uint8 is now deprecated, please use a dtype torch.bool instead. (Triggered internally at  /Users/distiller/project/conda/conda-bld/pytorch_1646756029501/work/aten/src/ATen/native/IndexingUtils.h:28.)
+  next_state_values[non_final_mask] = self.target_net(non_final_next_states).max(1)[0].detach()
+Episode 56/200 Duration: 200 AVG: 0
+Policy Reward: 200
+ 28%|█████████████████████████████████████                                                                                             | 57/200 [00:31<02:04,  1.15it/s]/Users/tuhinatripathi/Desktop/Desktop – Tuhina’s MacBook Air/CU/Thesis/Cartpole-IRL/dqn.py:129: UserWarning: indexing with dtype torch.uint8 is now deprecated, please use a dtype torch.bool instead. (Triggered internally at  /Users/distiller/project/conda/conda-bld/pytorch_1646756029501/work/aten/src/ATen/native/IndexingUtils.h:28.)
+  next_state_values[non_final_mask] = self.target_net(non_final_next_states).max(1)[0].detach()
+Episode 57/200 Duration: 200 AVG: 0
+Policy Reward: 200
+ 29%|█████████████████████████████████████▋                                                                                            | 58/200 [00:32<01:57,  1.21it/s]/Users/tuhinatripathi/Desktop/Desktop – Tuhina’s MacBook Air/CU/Thesis/Cartpole-IRL/dqn.py:129: UserWarning: indexing with dtype torch.uint8 is now deprecated, please use a dtype torch.bool instead. (Triggered internally at  /Users/distiller/project/conda/conda-bld/pytorch_1646756029501/work/aten/src/ATen/native/IndexingUtils.h:28.)
+  next_state_values[non_final_mask] = self.target_net(non_final_next_states).max(1)[0].detach()
+Episode 58/200 Duration: 200 AVG: 0
+Policy Reward: 200
+ 30%|██████████████████████████████████████▎                                                                                           | 59/200 [00:33<01:49,  1.28it/s]/Users/tuhinatripathi/Desktop/Desktop – Tuhina’s MacBook Air/CU/Thesis/Cartpole-IRL/dqn.py:129: UserWarning: indexing with dtype torch.uint8 is now deprecated, please use a dtype torch.bool instead. (Triggered internally at  /Users/distiller/project/conda/conda-bld/pytorch_1646756029501/work/aten/src/ATen/native/IndexingUtils.h:28.)
+  next_state_values[non_final_mask] = self.target_net(non_final_next_states).max(1)[0].detach()
+Episode 59/200 Duration: 200 AVG: 0
+Policy Reward: 200
+ 30%|███████████████████████████████████████                                                                                           | 60/200 [00:34<02:01,  1.15it/s]/Users/tuhinatripathi/Desktop/Desktop – Tuhina’s MacBook Air/CU/Thesis/Cartpole-IRL/dqn.py:129: UserWarning: indexing with dtype torch.uint8 is now deprecated, please use a dtype torch.bool instead. (Triggered internally at  /Users/distiller/project/conda/conda-bld/pytorch_1646756029501/work/aten/src/ATen/native/IndexingUtils.h:28.)
+  next_state_values[non_final_mask] = self.target_net(non_final_next_states).max(1)[0].detach()
+Episode 60/200 Duration: 200 AVG: 0
+Policy Reward: 200
+ 30%|███████████████████████████████████████▋                                                                                          | 61/200 [00:34<01:56,  1.20it/s]/Users/tuhinatripathi/Desktop/Desktop – Tuhina’s MacBook Air/CU/Thesis/Cartpole-IRL/dqn.py:129: UserWarning: indexing with dtype torch.uint8 is now deprecated, please use a dtype torch.bool instead. (Triggered internally at  /Users/distiller/project/conda/conda-bld/pytorch_1646756029501/work/aten/src/ATen/native/IndexingUtils.h:28.)
+  next_state_values[non_final_mask] = self.target_net(non_final_next_states).max(1)[0].detach()
+Episode 61/200 Duration: 200 AVG: 0
+Policy Reward: 200
+ 31%|████████████████████████████████████████▎                                                                                         | 62/200 [00:35<01:51,  1.23it/s]/Users/tuhinatripathi/Desktop/Desktop – Tuhina’s MacBook Air/CU/Thesis/Cartpole-IRL/dqn.py:129: UserWarning: indexing with dtype torch.uint8 is now deprecated, please use a dtype torch.bool instead. (Triggered internally at  /Users/distiller/project/conda/conda-bld/pytorch_1646756029501/work/aten/src/ATen/native/IndexingUtils.h:28.)
+  next_state_values[non_final_mask] = self.target_net(non_final_next_states).max(1)[0].detach()
+Episode 62/200 Duration: 200 AVG: 0
+Policy Reward: 200
+ 32%|████████████████████████████████████████▉                                                                                         | 63/200 [00:36<01:44,  1.31it/s]/Users/tuhinatripathi/Desktop/Desktop – Tuhina’s MacBook Air/CU/Thesis/Cartpole-IRL/dqn.py:129: UserWarning: indexing with dtype torch.uint8 is now deprecated, please use a dtype torch.bool instead. (Triggered internally at  /Users/distiller/project/conda/conda-bld/pytorch_1646756029501/work/aten/src/ATen/native/IndexingUtils.h:28.)
+  next_state_values[non_final_mask] = self.target_net(non_final_next_states).max(1)[0].detach()
+Episode 63/200 Duration: 200 AVG: 0
+Policy Reward: 200
+ 32%|█████████████████████████████████████████▌                                                                                        | 64/200 [00:37<01:48,  1.25it/s]/Users/tuhinatripathi/Desktop/Desktop – Tuhina’s MacBook Air/CU/Thesis/Cartpole-IRL/dqn.py:129: UserWarning: indexing with dtype torch.uint8 is now deprecated, please use a dtype torch.bool instead. (Triggered internally at  /Users/distiller/project/conda/conda-bld/pytorch_1646756029501/work/aten/src/ATen/native/IndexingUtils.h:28.)
+  next_state_values[non_final_mask] = self.target_net(non_final_next_states).max(1)[0].detach()
+Episode 64/200 Duration: 200 AVG: 0
+Policy Reward: 200
+ 32%|██████████████████████████████████████████▎                                                                                       | 65/200 [00:38<02:03,  1.09it/s]/Users/tuhinatripathi/Desktop/Desktop – Tuhina’s MacBook Air/CU/Thesis/Cartpole-IRL/dqn.py:129: UserWarning: indexing with dtype torch.uint8 is now deprecated, please use a dtype torch.bool instead. (Triggered internally at  /Users/distiller/project/conda/conda-bld/pytorch_1646756029501/work/aten/src/ATen/native/IndexingUtils.h:28.)
+  next_state_values[non_final_mask] = self.target_net(non_final_next_states).max(1)[0].detach()
+Episode 65/200 Duration: 200 AVG: 0
+Policy Reward: 200
+ 33%|██████████████████████████████████████████▉                                                                                       | 66/200 [00:39<01:54,  1.17it/s]/Users/tuhinatripathi/Desktop/Desktop – Tuhina’s MacBook Air/CU/Thesis/Cartpole-IRL/dqn.py:129: UserWarning: indexing with dtype torch.uint8 is now deprecated, please use a dtype torch.bool instead. (Triggered internally at  /Users/distiller/project/conda/conda-bld/pytorch_1646756029501/work/aten/src/ATen/native/IndexingUtils.h:28.)
+  next_state_values[non_final_mask] = self.target_net(non_final_next_states).max(1)[0].detach()
+Episode 66/200 Duration: 200 AVG: 0
+Policy Reward: 200
+ 34%|███████████████████████████████████████████▌                                                                                      | 67/200 [00:39<01:48,  1.22it/s]/Users/tuhinatripathi/Desktop/Desktop – Tuhina’s MacBook Air/CU/Thesis/Cartpole-IRL/dqn.py:129: UserWarning: indexing with dtype torch.uint8 is now deprecated, please use a dtype torch.bool instead. (Triggered internally at  /Users/distiller/project/conda/conda-bld/pytorch_1646756029501/work/aten/src/ATen/native/IndexingUtils.h:28.)
+  next_state_values[non_final_mask] = self.target_net(non_final_next_states).max(1)[0].detach()
+Episode 67/200 Duration: 200 AVG: 0
+Policy Reward: 200
+ 34%|████████████████████████████████████████████▏                                                                                     | 68/200 [00:40<01:45,  1.26it/s]/Users/tuhinatripathi/Desktop/Desktop – Tuhina’s MacBook Air/CU/Thesis/Cartpole-IRL/dqn.py:129: UserWarning: indexing with dtype torch.uint8 is now deprecated, please use a dtype torch.bool instead. (Triggered internally at  /Users/distiller/project/conda/conda-bld/pytorch_1646756029501/work/aten/src/ATen/native/IndexingUtils.h:28.)
+  next_state_values[non_final_mask] = self.target_net(non_final_next_states).max(1)[0].detach()
+Episode 68/200 Duration: 200 AVG: 0
+Policy Reward: 200
+ 34%|████████████████████████████████████████████▊                                                                                     | 69/200 [00:41<01:42,  1.28it/s]/Users/tuhinatripathi/Desktop/Desktop – Tuhina’s MacBook Air/CU/Thesis/Cartpole-IRL/dqn.py:129: UserWarning: indexing with dtype torch.uint8 is now deprecated, please use a dtype torch.bool instead. (Triggered internally at  /Users/distiller/project/conda/conda-bld/pytorch_1646756029501/work/aten/src/ATen/native/IndexingUtils.h:28.)
+  next_state_values[non_final_mask] = self.target_net(non_final_next_states).max(1)[0].detach()
+Episode 69/200 Duration: 200 AVG: 0
+Policy Reward: 200
+ 35%|█████████████████████████████████████████████▌                                                                                    | 70/200 [00:42<01:36,  1.35it/s]/Users/tuhinatripathi/Desktop/Desktop – Tuhina’s MacBook Air/CU/Thesis/Cartpole-IRL/dqn.py:129: UserWarning: indexing with dtype torch.uint8 is now deprecated, please use a dtype torch.bool instead. (Triggered internally at  /Users/distiller/project/conda/conda-bld/pytorch_1646756029501/work/aten/src/ATen/native/IndexingUtils.h:28.)
+  next_state_values[non_final_mask] = self.target_net(non_final_next_states).max(1)[0].detach()
+Episode 70/200 Duration: 200 AVG: 0
+Policy Reward: 200
+ 36%|██████████████████████████████████████████████▏                                                                                   | 71/200 [00:42<01:32,  1.40it/s]/Users/tuhinatripathi/Desktop/Desktop – Tuhina’s MacBook Air/CU/Thesis/Cartpole-IRL/dqn.py:129: UserWarning: indexing with dtype torch.uint8 is now deprecated, please use a dtype torch.bool instead. (Triggered internally at  /Users/distiller/project/conda/conda-bld/pytorch_1646756029501/work/aten/src/ATen/native/IndexingUtils.h:28.)
+  next_state_values[non_final_mask] = self.target_net(non_final_next_states).max(1)[0].detach()
+Episode 71/200 Duration: 200 AVG: 0
+Policy Reward: 200
+ 36%|██████████████████████████████████████████████▊                                                                                   | 72/200 [00:43<01:29,  1.44it/s]/Users/tuhinatripathi/Desktop/Desktop – Tuhina’s MacBook Air/CU/Thesis/Cartpole-IRL/dqn.py:129: UserWarning: indexing with dtype torch.uint8 is now deprecated, please use a dtype torch.bool instead. (Triggered internally at  /Users/distiller/project/conda/conda-bld/pytorch_1646756029501/work/aten/src/ATen/native/IndexingUtils.h:28.)
+  next_state_values[non_final_mask] = self.target_net(non_final_next_states).max(1)[0].detach()
+Episode 72/200 Duration: 200 AVG: 0
+Policy Reward: 200
+ 36%|███████████████████████████████████████████████▍                                                                                  | 73/200 [00:44<01:34,  1.34it/s]/Users/tuhinatripathi/Desktop/Desktop – Tuhina’s MacBook Air/CU/Thesis/Cartpole-IRL/dqn.py:129: UserWarning: indexing with dtype torch.uint8 is now deprecated, please use a dtype torch.bool instead. (Triggered internally at  /Users/distiller/project/conda/conda-bld/pytorch_1646756029501/work/aten/src/ATen/native/IndexingUtils.h:28.)
+  next_state_values[non_final_mask] = self.target_net(non_final_next_states).max(1)[0].detach()
+Episode 73/200 Duration: 200 AVG: 0
+Policy Reward: 200
+ 37%|████████████████████████████████████████████████                                                                                  | 74/200 [00:44<01:30,  1.39it/s]/Users/tuhinatripathi/Desktop/Desktop – Tuhina’s MacBook Air/CU/Thesis/Cartpole-IRL/dqn.py:129: UserWarning: indexing with dtype torch.uint8 is now deprecated, please use a dtype torch.bool instead. (Triggered internally at  /Users/distiller/project/conda/conda-bld/pytorch_1646756029501/work/aten/src/ATen/native/IndexingUtils.h:28.)
+  next_state_values[non_final_mask] = self.target_net(non_final_next_states).max(1)[0].detach()
+Episode 74/200 Duration: 200 AVG: 0
+Policy Reward: 200
+ 38%|████████████████████████████████████████████████▊                                                                                 | 75/200 [00:45<01:28,  1.42it/s]/Users/tuhinatripathi/Desktop/Desktop – Tuhina’s MacBook Air/CU/Thesis/Cartpole-IRL/dqn.py:129: UserWarning: indexing with dtype torch.uint8 is now deprecated, please use a dtype torch.bool instead. (Triggered internally at  /Users/distiller/project/conda/conda-bld/pytorch_1646756029501/work/aten/src/ATen/native/IndexingUtils.h:28.)
+  next_state_values[non_final_mask] = self.target_net(non_final_next_states).max(1)[0].detach()
+Episode 75/200 Duration: 200 AVG: 0
+Policy Reward: 200
+ 38%|█████████████████████████████████████████████████▍                                                                                | 76/200 [00:46<01:25,  1.45it/s]/Users/tuhinatripathi/Desktop/Desktop – Tuhina’s MacBook Air/CU/Thesis/Cartpole-IRL/dqn.py:129: UserWarning: indexing with dtype torch.uint8 is now deprecated, please use a dtype torch.bool instead. (Triggered internally at  /Users/distiller/project/conda/conda-bld/pytorch_1646756029501/work/aten/src/ATen/native/IndexingUtils.h:28.)
+  next_state_values[non_final_mask] = self.target_net(non_final_next_states).max(1)[0].detach()
+Episode 76/200 Duration: 200 AVG: 0
+Policy Reward: 200
+ 38%|██████████████████████████████████████████████████                                                                                | 77/200 [00:46<01:29,  1.37it/s]/Users/tuhinatripathi/Desktop/Desktop – Tuhina’s MacBook Air/CU/Thesis/Cartpole-IRL/dqn.py:129: UserWarning: indexing with dtype torch.uint8 is now deprecated, please use a dtype torch.bool instead. (Triggered internally at  /Users/distiller/project/conda/conda-bld/pytorch_1646756029501/work/aten/src/ATen/native/IndexingUtils.h:28.)
+  next_state_values[non_final_mask] = self.target_net(non_final_next_states).max(1)[0].detach()
+Episode 77/200 Duration: 200 AVG: 0
+Policy Reward: 200
+ 39%|██████████████████████████████████████████████████▋                                                                               | 78/200 [00:47<01:33,  1.30it/s]/Users/tuhinatripathi/Desktop/Desktop – Tuhina’s MacBook Air/CU/Thesis/Cartpole-IRL/dqn.py:129: UserWarning: indexing with dtype torch.uint8 is now deprecated, please use a dtype torch.bool instead. (Triggered internally at  /Users/distiller/project/conda/conda-bld/pytorch_1646756029501/work/aten/src/ATen/native/IndexingUtils.h:28.)
+  next_state_values[non_final_mask] = self.target_net(non_final_next_states).max(1)[0].detach()
+Episode 78/200 Duration: 200 AVG: 0
+Policy Reward: 200
+ 40%|███████████████████████████████████████████████████▎                                                                              | 79/200 [00:48<01:45,  1.15it/s]/Users/tuhinatripathi/Desktop/Desktop – Tuhina’s MacBook Air/CU/Thesis/Cartpole-IRL/dqn.py:129: UserWarning: indexing with dtype torch.uint8 is now deprecated, please use a dtype torch.bool instead. (Triggered internally at  /Users/distiller/project/conda/conda-bld/pytorch_1646756029501/work/aten/src/ATen/native/IndexingUtils.h:28.)
+  next_state_values[non_final_mask] = self.target_net(non_final_next_states).max(1)[0].detach()
+Episode 79/200 Duration: 200 AVG: 0
+Policy Reward: 200
+ 40%|████████████████████████████████████████████████████                                                                              | 80/200 [00:49<01:46,  1.13it/s]/Users/tuhinatripathi/Desktop/Desktop – Tuhina’s MacBook Air/CU/Thesis/Cartpole-IRL/dqn.py:129: UserWarning: indexing with dtype torch.uint8 is now deprecated, please use a dtype torch.bool instead. (Triggered internally at  /Users/distiller/project/conda/conda-bld/pytorch_1646756029501/work/aten/src/ATen/native/IndexingUtils.h:28.)
+  next_state_values[non_final_mask] = self.target_net(non_final_next_states).max(1)[0].detach()
+Episode 80/200 Duration: 200 AVG: 0
+Policy Reward: 200
+ 40%|████████████████████████████████████████████████████▋                                                                             | 81/200 [00:50<01:50,  1.08it/s]/Users/tuhinatripathi/Desktop/Desktop – Tuhina’s MacBook Air/CU/Thesis/Cartpole-IRL/dqn.py:129: UserWarning: indexing with dtype torch.uint8 is now deprecated, please use a dtype torch.bool instead. (Triggered internally at  /Users/distiller/project/conda/conda-bld/pytorch_1646756029501/work/aten/src/ATen/native/IndexingUtils.h:28.)
+  next_state_values[non_final_mask] = self.target_net(non_final_next_states).max(1)[0].detach()
+Episode 81/200 Duration: 200 AVG: 0
+Policy Reward: 200
+ 41%|█████████████████████████████████████████████████████▎                                                                            | 82/200 [00:51<01:45,  1.12it/s]/Users/tuhinatripathi/Desktop/Desktop – Tuhina’s MacBook Air/CU/Thesis/Cartpole-IRL/dqn.py:129: UserWarning: indexing with dtype torch.uint8 is now deprecated, please use a dtype torch.bool instead. (Triggered internally at  /Users/distiller/project/conda/conda-bld/pytorch_1646756029501/work/aten/src/ATen/native/IndexingUtils.h:28.)
+  next_state_values[non_final_mask] = self.target_net(non_final_next_states).max(1)[0].detach()
+Episode 82/200 Duration: 200 AVG: 0
+Policy Reward: 200
+ 42%|█████████████████████████████████████████████████████▉                                                                            | 83/200 [00:52<01:41,  1.15it/s]/Users/tuhinatripathi/Desktop/Desktop – Tuhina’s MacBook Air/CU/Thesis/Cartpole-IRL/dqn.py:129: UserWarning: indexing with dtype torch.uint8 is now deprecated, please use a dtype torch.bool instead. (Triggered internally at  /Users/distiller/project/conda/conda-bld/pytorch_1646756029501/work/aten/src/ATen/native/IndexingUtils.h:28.)
+  next_state_values[non_final_mask] = self.target_net(non_final_next_states).max(1)[0].detach()
+Episode 83/200 Duration: 200 AVG: 0
+Policy Reward: 200
+ 42%|██████████████████████████████████████████████████████▌                                                                           | 84/200 [00:53<01:33,  1.24it/s]/Users/tuhinatripathi/Desktop/Desktop – Tuhina’s MacBook Air/CU/Thesis/Cartpole-IRL/dqn.py:129: UserWarning: indexing with dtype torch.uint8 is now deprecated, please use a dtype torch.bool instead. (Triggered internally at  /Users/distiller/project/conda/conda-bld/pytorch_1646756029501/work/aten/src/ATen/native/IndexingUtils.h:28.)
+  next_state_values[non_final_mask] = self.target_net(non_final_next_states).max(1)[0].detach()
+Episode 84/200 Duration: 200 AVG: 0
+Policy Reward: 200
+ 42%|███████████████████████████████████████████████████████▎                                                                          | 85/200 [00:53<01:28,  1.30it/s]/Users/tuhinatripathi/Desktop/Desktop – Tuhina’s MacBook Air/CU/Thesis/Cartpole-IRL/dqn.py:129: UserWarning: indexing with dtype torch.uint8 is now deprecated, please use a dtype torch.bool instead. (Triggered internally at  /Users/distiller/project/conda/conda-bld/pytorch_1646756029501/work/aten/src/ATen/native/IndexingUtils.h:28.)
+  next_state_values[non_final_mask] = self.target_net(non_final_next_states).max(1)[0].detach()
+Episode 85/200 Duration: 200 AVG: 0
+Policy Reward: 200
+ 43%|███████████████████████████████████████████████████████▉                                                                          | 86/200 [00:54<01:24,  1.35it/s]/Users/tuhinatripathi/Desktop/Desktop – Tuhina’s MacBook Air/CU/Thesis/Cartpole-IRL/dqn.py:129: UserWarning: indexing with dtype torch.uint8 is now deprecated, please use a dtype torch.bool instead. (Triggered internally at  /Users/distiller/project/conda/conda-bld/pytorch_1646756029501/work/aten/src/ATen/native/IndexingUtils.h:28.)
+  next_state_values[non_final_mask] = self.target_net(non_final_next_states).max(1)[0].detach()
+Episode 86/200 Duration: 200 AVG: 0
+Policy Reward: 200
+ 44%|████████████████████████████████████████████████████████▌                                                                         | 87/200 [00:55<01:22,  1.38it/s]/Users/tuhinatripathi/Desktop/Desktop – Tuhina’s MacBook Air/CU/Thesis/Cartpole-IRL/dqn.py:129: UserWarning: indexing with dtype torch.uint8 is now deprecated, please use a dtype torch.bool instead. (Triggered internally at  /Users/distiller/project/conda/conda-bld/pytorch_1646756029501/work/aten/src/ATen/native/IndexingUtils.h:28.)
+  next_state_values[non_final_mask] = self.target_net(non_final_next_states).max(1)[0].detach()
+Episode 87/200 Duration: 200 AVG: 0
+Policy Reward: 200
+ 44%|█████████████████████████████████████████████████████████▏                                                                        | 88/200 [00:55<01:19,  1.41it/s]/Users/tuhinatripathi/Desktop/Desktop – Tuhina’s MacBook Air/CU/Thesis/Cartpole-IRL/dqn.py:129: UserWarning: indexing with dtype torch.uint8 is now deprecated, please use a dtype torch.bool instead. (Triggered internally at  /Users/distiller/project/conda/conda-bld/pytorch_1646756029501/work/aten/src/ATen/native/IndexingUtils.h:28.)
+  next_state_values[non_final_mask] = self.target_net(non_final_next_states).max(1)[0].detach()
+Episode 88/200 Duration: 200 AVG: 0
+Policy Reward: 200
+ 44%|█████████████████████████████████████████████████████████▊                                                                        | 89/200 [00:56<01:17,  1.42it/s]/Users/tuhinatripathi/Desktop/Desktop – Tuhina’s MacBook Air/CU/Thesis/Cartpole-IRL/dqn.py:129: UserWarning: indexing with dtype torch.uint8 is now deprecated, please use a dtype torch.bool instead. (Triggered internally at  /Users/distiller/project/conda/conda-bld/pytorch_1646756029501/work/aten/src/ATen/native/IndexingUtils.h:28.)
+  next_state_values[non_final_mask] = self.target_net(non_final_next_states).max(1)[0].detach()
+Episode 89/200 Duration: 200 AVG: 0
+Policy Reward: 200
+ 45%|██████████████████████████████████████████████████████████▌                                                                       | 90/200 [00:57<01:22,  1.34it/s]/Users/tuhinatripathi/Desktop/Desktop – Tuhina’s MacBook Air/CU/Thesis/Cartpole-IRL/dqn.py:129: UserWarning: indexing with dtype torch.uint8 is now deprecated, please use a dtype torch.bool instead. (Triggered internally at  /Users/distiller/project/conda/conda-bld/pytorch_1646756029501/work/aten/src/ATen/native/IndexingUtils.h:28.)
+  next_state_values[non_final_mask] = self.target_net(non_final_next_states).max(1)[0].detach()
+Episode 90/200 Duration: 200 AVG: 0
+Policy Reward: 200
+ 46%|███████████████████████████████████████████████████████████▏                                                                      | 91/200 [00:58<01:18,  1.38it/s]/Users/tuhinatripathi/Desktop/Desktop – Tuhina’s MacBook Air/CU/Thesis/Cartpole-IRL/dqn.py:129: UserWarning: indexing with dtype torch.uint8 is now deprecated, please use a dtype torch.bool instead. (Triggered internally at  /Users/distiller/project/conda/conda-bld/pytorch_1646756029501/work/aten/src/ATen/native/IndexingUtils.h:28.)
+  next_state_values[non_final_mask] = self.target_net(non_final_next_states).max(1)[0].detach()
+Episode 91/200 Duration: 200 AVG: 0
+Policy Reward: 200
+ 46%|███████████████████████████████████████████████████████████▊                                                                      | 92/200 [00:58<01:21,  1.33it/s]/Users/tuhinatripathi/Desktop/Desktop – Tuhina’s MacBook Air/CU/Thesis/Cartpole-IRL/dqn.py:129: UserWarning: indexing with dtype torch.uint8 is now deprecated, please use a dtype torch.bool instead. (Triggered internally at  /Users/distiller/project/conda/conda-bld/pytorch_1646756029501/work/aten/src/ATen/native/IndexingUtils.h:28.)
+  next_state_values[non_final_mask] = self.target_net(non_final_next_states).max(1)[0].detach()
+Episode 92/200 Duration: 200 AVG: 0
+Policy Reward: 200
+ 46%|████████████████████████████████████████████████████████████▍                                                                     | 93/200 [00:59<01:17,  1.38it/s]/Users/tuhinatripathi/Desktop/Desktop – Tuhina’s MacBook Air/CU/Thesis/Cartpole-IRL/dqn.py:129: UserWarning: indexing with dtype torch.uint8 is now deprecated, please use a dtype torch.bool instead. (Triggered internally at  /Users/distiller/project/conda/conda-bld/pytorch_1646756029501/work/aten/src/ATen/native/IndexingUtils.h:28.)
+  next_state_values[non_final_mask] = self.target_net(non_final_next_states).max(1)[0].detach()
+Episode 93/200 Duration: 200 AVG: 0
+Policy Reward: 200
+ 47%|█████████████████████████████████████████████████████████████                                                                     | 94/200 [01:00<01:15,  1.41it/s]/Users/tuhinatripathi/Desktop/Desktop – Tuhina’s MacBook Air/CU/Thesis/Cartpole-IRL/dqn.py:129: UserWarning: indexing with dtype torch.uint8 is now deprecated, please use a dtype torch.bool instead. (Triggered internally at  /Users/distiller/project/conda/conda-bld/pytorch_1646756029501/work/aten/src/ATen/native/IndexingUtils.h:28.)
+  next_state_values[non_final_mask] = self.target_net(non_final_next_states).max(1)[0].detach()
+Episode 94/200 Duration: 200 AVG: 0
+Policy Reward: 200
+ 48%|█████████████████████████████████████████████████████████████▊                                                                    | 95/200 [01:01<01:20,  1.31it/s]/Users/tuhinatripathi/Desktop/Desktop – Tuhina’s MacBook Air/CU/Thesis/Cartpole-IRL/dqn.py:129: UserWarning: indexing with dtype torch.uint8 is now deprecated, please use a dtype torch.bool instead. (Triggered internally at  /Users/distiller/project/conda/conda-bld/pytorch_1646756029501/work/aten/src/ATen/native/IndexingUtils.h:28.)
+  next_state_values[non_final_mask] = self.target_net(non_final_next_states).max(1)[0].detach()
+Episode 95/200 Duration: 200 AVG: 0
+Policy Reward: 200
+ 48%|██████████████████████████████████████████████████████████████▍                                                                   | 96/200 [01:01<01:16,  1.35it/s]/Users/tuhinatripathi/Desktop/Desktop – Tuhina’s MacBook Air/CU/Thesis/Cartpole-IRL/dqn.py:129: UserWarning: indexing with dtype torch.uint8 is now deprecated, please use a dtype torch.bool instead. (Triggered internally at  /Users/distiller/project/conda/conda-bld/pytorch_1646756029501/work/aten/src/ATen/native/IndexingUtils.h:28.)
+  next_state_values[non_final_mask] = self.target_net(non_final_next_states).max(1)[0].detach()
+Episode 96/200 Duration: 200 AVG: 0
+Policy Reward: 200
+ 48%|███████████████████████████████████████████████████████████████                                                                   | 97/200 [01:02<01:14,  1.39it/s]/Users/tuhinatripathi/Desktop/Desktop – Tuhina’s MacBook Air/CU/Thesis/Cartpole-IRL/dqn.py:129: UserWarning: indexing with dtype torch.uint8 is now deprecated, please use a dtype torch.bool instead. (Triggered internally at  /Users/distiller/project/conda/conda-bld/pytorch_1646756029501/work/aten/src/ATen/native/IndexingUtils.h:28.)
+  next_state_values[non_final_mask] = self.target_net(non_final_next_states).max(1)[0].detach()
+Episode 97/200 Duration: 200 AVG: 0
+Policy Reward: 200
+ 49%|███████████████████████████████████████████████████████████████▋                                                                  | 98/200 [01:03<01:20,  1.27it/s]/Users/tuhinatripathi/Desktop/Desktop – Tuhina’s MacBook Air/CU/Thesis/Cartpole-IRL/dqn.py:129: UserWarning: indexing with dtype torch.uint8 is now deprecated, please use a dtype torch.bool instead. (Triggered internally at  /Users/distiller/project/conda/conda-bld/pytorch_1646756029501/work/aten/src/ATen/native/IndexingUtils.h:28.)
+  next_state_values[non_final_mask] = self.target_net(non_final_next_states).max(1)[0].detach()
+Episode 98/200 Duration: 200 AVG: 0
+Policy Reward: 200
+ 50%|████████████████████████████████████████████████████████████████▎                                                                 | 99/200 [01:04<01:21,  1.24it/s]/Users/tuhinatripathi/Desktop/Desktop – Tuhina’s MacBook Air/CU/Thesis/Cartpole-IRL/dqn.py:129: UserWarning: indexing with dtype torch.uint8 is now deprecated, please use a dtype torch.bool instead. (Triggered internally at  /Users/distiller/project/conda/conda-bld/pytorch_1646756029501/work/aten/src/ATen/native/IndexingUtils.h:28.)
+  next_state_values[non_final_mask] = self.target_net(non_final_next_states).max(1)[0].detach()
+Episode 99/200 Duration: 200 AVG: 166
+Policy Reward: 200
+ 50%|████████████████████████████████████████████████████████████████▌                                                                | 100/200 [01:05<01:29,  1.11it/s]/Users/tuhinatripathi/Desktop/Desktop – Tuhina’s MacBook Air/CU/Thesis/Cartpole-IRL/dqn.py:129: UserWarning: indexing with dtype torch.uint8 is now deprecated, please use a dtype torch.bool instead. (Triggered internally at  /Users/distiller/project/conda/conda-bld/pytorch_1646756029501/work/aten/src/ATen/native/IndexingUtils.h:28.)
+  next_state_values[non_final_mask] = self.target_net(non_final_next_states).max(1)[0].detach()
+Episode 100/200 Duration: 200 AVG: 168
+Policy Reward: 200
+ 50%|█████████████████████████████████████████████████████████████████▏                                                               | 101/200 [01:06<01:34,  1.04it/s]/Users/tuhinatripathi/Desktop/Desktop – Tuhina’s MacBook Air/CU/Thesis/Cartpole-IRL/dqn.py:129: UserWarning: indexing with dtype torch.uint8 is now deprecated, please use a dtype torch.bool instead. (Triggered internally at  /Users/distiller/project/conda/conda-bld/pytorch_1646756029501/work/aten/src/ATen/native/IndexingUtils.h:28.)
+  next_state_values[non_final_mask] = self.target_net(non_final_next_states).max(1)[0].detach()
+Episode 101/200 Duration: 200 AVG: 170
+Policy Reward: 200
+ 51%|█████████████████████████████████████████████████████████████████▊                                                               | 102/200 [01:07<01:27,  1.12it/s]/Users/tuhinatripathi/Desktop/Desktop – Tuhina’s MacBook Air/CU/Thesis/Cartpole-IRL/dqn.py:129: UserWarning: indexing with dtype torch.uint8 is now deprecated, please use a dtype torch.bool instead. (Triggered internally at  /Users/distiller/project/conda/conda-bld/pytorch_1646756029501/work/aten/src/ATen/native/IndexingUtils.h:28.)
+  next_state_values[non_final_mask] = self.target_net(non_final_next_states).max(1)[0].detach()
+Episode 102/200 Duration: 200 AVG: 172
+Policy Reward: 200
+ 52%|██████████████████████████████████████████████████████████████████▍                                                              | 103/200 [01:07<01:19,  1.22it/s]/Users/tuhinatripathi/Desktop/Desktop – Tuhina’s MacBook Air/CU/Thesis/Cartpole-IRL/dqn.py:129: UserWarning: indexing with dtype torch.uint8 is now deprecated, please use a dtype torch.bool instead. (Triggered internally at  /Users/distiller/project/conda/conda-bld/pytorch_1646756029501/work/aten/src/ATen/native/IndexingUtils.h:28.)
+  next_state_values[non_final_mask] = self.target_net(non_final_next_states).max(1)[0].detach()
+Episode 103/200 Duration: 200 AVG: 173
+Policy Reward: 200
+ 52%|███████████████████████████████████████████████████████████████████                                                              | 104/200 [01:08<01:15,  1.28it/s]/Users/tuhinatripathi/Desktop/Desktop – Tuhina’s MacBook Air/CU/Thesis/Cartpole-IRL/dqn.py:129: UserWarning: indexing with dtype torch.uint8 is now deprecated, please use a dtype torch.bool instead. (Triggered internally at  /Users/distiller/project/conda/conda-bld/pytorch_1646756029501/work/aten/src/ATen/native/IndexingUtils.h:28.)
+  next_state_values[non_final_mask] = self.target_net(non_final_next_states).max(1)[0].detach()
+Episode 104/200 Duration: 200 AVG: 175
+Policy Reward: 200
+ 52%|███████████████████████████████████████████████████████████████████▋                                                             | 105/200 [01:09<01:10,  1.34it/s]/Users/tuhinatripathi/Desktop/Desktop – Tuhina’s MacBook Air/CU/Thesis/Cartpole-IRL/dqn.py:129: UserWarning: indexing with dtype torch.uint8 is now deprecated, please use a dtype torch.bool instead. (Triggered internally at  /Users/distiller/project/conda/conda-bld/pytorch_1646756029501/work/aten/src/ATen/native/IndexingUtils.h:28.)
+  next_state_values[non_final_mask] = self.target_net(non_final_next_states).max(1)[0].detach()
+Episode 105/200 Duration: 200 AVG: 177
+Policy Reward: 200
+ 53%|████████████████████████████████████████████████████████████████████▎                                                            | 106/200 [01:09<01:07,  1.39it/s]/Users/tuhinatripathi/Desktop/Desktop – Tuhina’s MacBook Air/CU/Thesis/Cartpole-IRL/dqn.py:129: UserWarning: indexing with dtype torch.uint8 is now deprecated, please use a dtype torch.bool instead. (Triggered internally at  /Users/distiller/project/conda/conda-bld/pytorch_1646756029501/work/aten/src/ATen/native/IndexingUtils.h:28.)
+  next_state_values[non_final_mask] = self.target_net(non_final_next_states).max(1)[0].detach()
+Episode 106/200 Duration: 200 AVG: 179
+Policy Reward: 200
+ 54%|█████████████████████████████████████████████████████████████████████                                                            | 107/200 [01:10<01:04,  1.44it/s]/Users/tuhinatripathi/Desktop/Desktop – Tuhina’s MacBook Air/CU/Thesis/Cartpole-IRL/dqn.py:129: UserWarning: indexing with dtype torch.uint8 is now deprecated, please use a dtype torch.bool instead. (Triggered internally at  /Users/distiller/project/conda/conda-bld/pytorch_1646756029501/work/aten/src/ATen/native/IndexingUtils.h:28.)
+  next_state_values[non_final_mask] = self.target_net(non_final_next_states).max(1)[0].detach()
+Episode 107/200 Duration: 200 AVG: 181
+Policy Reward: 200
+ 54%|█████████████████████████████████████████████████████████████████████▋                                                           | 108/200 [01:11<01:03,  1.45it/s]/Users/tuhinatripathi/Desktop/Desktop – Tuhina’s MacBook Air/CU/Thesis/Cartpole-IRL/dqn.py:129: UserWarning: indexing with dtype torch.uint8 is now deprecated, please use a dtype torch.bool instead. (Triggered internally at  /Users/distiller/project/conda/conda-bld/pytorch_1646756029501/work/aten/src/ATen/native/IndexingUtils.h:28.)
+  next_state_values[non_final_mask] = self.target_net(non_final_next_states).max(1)[0].detach()
+Episode 108/200 Duration: 200 AVG: 182
+Policy Reward: 200
+ 55%|██████████████████████████████████████████████████████████████████████▎                                                          | 109/200 [01:11<01:02,  1.46it/s]/Users/tuhinatripathi/Desktop/Desktop – Tuhina’s MacBook Air/CU/Thesis/Cartpole-IRL/dqn.py:129: UserWarning: indexing with dtype torch.uint8 is now deprecated, please use a dtype torch.bool instead. (Triggered internally at  /Users/distiller/project/conda/conda-bld/pytorch_1646756029501/work/aten/src/ATen/native/IndexingUtils.h:28.)
+  next_state_values[non_final_mask] = self.target_net(non_final_next_states).max(1)[0].detach()
+Episode 109/200 Duration: 200 AVG: 184
+Policy Reward: 200
+ 55%|██████████████████████████████████████████████████████████████████████▉                                                          | 110/200 [01:12<01:01,  1.47it/s]/Users/tuhinatripathi/Desktop/Desktop – Tuhina’s MacBook Air/CU/Thesis/Cartpole-IRL/dqn.py:129: UserWarning: indexing with dtype torch.uint8 is now deprecated, please use a dtype torch.bool instead. (Triggered internally at  /Users/distiller/project/conda/conda-bld/pytorch_1646756029501/work/aten/src/ATen/native/IndexingUtils.h:28.)
+  next_state_values[non_final_mask] = self.target_net(non_final_next_states).max(1)[0].detach()
+Episode 110/200 Duration: 200 AVG: 186
+Policy Reward: 200
+ 56%|███████████████████████████████████████████████████████████████████████▌                                                         | 111/200 [01:13<01:00,  1.48it/s]/Users/tuhinatripathi/Desktop/Desktop – Tuhina’s MacBook Air/CU/Thesis/Cartpole-IRL/dqn.py:129: UserWarning: indexing with dtype torch.uint8 is now deprecated, please use a dtype torch.bool instead. (Triggered internally at  /Users/distiller/project/conda/conda-bld/pytorch_1646756029501/work/aten/src/ATen/native/IndexingUtils.h:28.)
+  next_state_values[non_final_mask] = self.target_net(non_final_next_states).max(1)[0].detach()
+Episode 111/200 Duration: 200 AVG: 188
+Policy Reward: 200
+ 56%|████████████████████████████████████████████████████████████████████████▏                                                        | 112/200 [01:13<00:59,  1.47it/s]/Users/tuhinatripathi/Desktop/Desktop – Tuhina’s MacBook Air/CU/Thesis/Cartpole-IRL/dqn.py:129: UserWarning: indexing with dtype torch.uint8 is now deprecated, please use a dtype torch.bool instead. (Triggered internally at  /Users/distiller/project/conda/conda-bld/pytorch_1646756029501/work/aten/src/ATen/native/IndexingUtils.h:28.)
+  next_state_values[non_final_mask] = self.target_net(non_final_next_states).max(1)[0].detach()
+Episode 112/200 Duration: 200 AVG: 189
+Policy Reward: 200
+ 56%|████████████████████████████████████████████████████████████████████████▉                                                        | 113/200 [01:14<01:01,  1.42it/s]/Users/tuhinatripathi/Desktop/Desktop – Tuhina’s MacBook Air/CU/Thesis/Cartpole-IRL/dqn.py:129: UserWarning: indexing with dtype torch.uint8 is now deprecated, please use a dtype torch.bool instead. (Triggered internally at  /Users/distiller/project/conda/conda-bld/pytorch_1646756029501/work/aten/src/ATen/native/IndexingUtils.h:28.)
+  next_state_values[non_final_mask] = self.target_net(non_final_next_states).max(1)[0].detach()
+Episode 113/200 Duration: 200 AVG: 190
+Policy Reward: 200
+ 57%|█████████████████████████████████████████████████████████████████████████▌                                                       | 114/200 [01:15<01:01,  1.39it/s]/Users/tuhinatripathi/Desktop/Desktop – Tuhina’s MacBook Air/CU/Thesis/Cartpole-IRL/dqn.py:129: UserWarning: indexing with dtype torch.uint8 is now deprecated, please use a dtype torch.bool instead. (Triggered internally at  /Users/distiller/project/conda/conda-bld/pytorch_1646756029501/work/aten/src/ATen/native/IndexingUtils.h:28.)
+  next_state_values[non_final_mask] = self.target_net(non_final_next_states).max(1)[0].detach()
+Episode 114/200 Duration: 200 AVG: 191
+Policy Reward: 200
+ 57%|██████████████████████████████████████████████████████████████████████████▏                                                      | 115/200 [01:16<00:59,  1.44it/s]/Users/tuhinatripathi/Desktop/Desktop – Tuhina’s MacBook Air/CU/Thesis/Cartpole-IRL/dqn.py:129: UserWarning: indexing with dtype torch.uint8 is now deprecated, please use a dtype torch.bool instead. (Triggered internally at  /Users/distiller/project/conda/conda-bld/pytorch_1646756029501/work/aten/src/ATen/native/IndexingUtils.h:28.)
+  next_state_values[non_final_mask] = self.target_net(non_final_next_states).max(1)[0].detach()
+Episode 115/200 Duration: 200 AVG: 192
+Policy Reward: 200
+ 58%|██████████████████████████████████████████████████████████████████████████▊                                                      | 116/200 [01:16<00:57,  1.45it/s]/Users/tuhinatripathi/Desktop/Desktop – Tuhina’s MacBook Air/CU/Thesis/Cartpole-IRL/dqn.py:129: UserWarning: indexing with dtype torch.uint8 is now deprecated, please use a dtype torch.bool instead. (Triggered internally at  /Users/distiller/project/conda/conda-bld/pytorch_1646756029501/work/aten/src/ATen/native/IndexingUtils.h:28.)
+  next_state_values[non_final_mask] = self.target_net(non_final_next_states).max(1)[0].detach()
+Episode 116/200 Duration: 200 AVG: 193
+Policy Reward: 200
+ 58%|███████████████████████████████████████████████████████████████████████████▍                                                     | 117/200 [01:17<00:56,  1.46it/s]/Users/tuhinatripathi/Desktop/Desktop – Tuhina’s MacBook Air/CU/Thesis/Cartpole-IRL/dqn.py:129: UserWarning: indexing with dtype torch.uint8 is now deprecated, please use a dtype torch.bool instead. (Triggered internally at  /Users/distiller/project/conda/conda-bld/pytorch_1646756029501/work/aten/src/ATen/native/IndexingUtils.h:28.)
+  next_state_values[non_final_mask] = self.target_net(non_final_next_states).max(1)[0].detach()
+Episode 117/200 Duration: 200 AVG: 194
+Policy Reward: 200
+ 59%|████████████████████████████████████████████████████████████████████████████                                                     | 118/200 [01:18<00:56,  1.46it/s]/Users/tuhinatripathi/Desktop/Desktop – Tuhina’s MacBook Air/CU/Thesis/Cartpole-IRL/dqn.py:129: UserWarning: indexing with dtype torch.uint8 is now deprecated, please use a dtype torch.bool instead. (Triggered internally at  /Users/distiller/project/conda/conda-bld/pytorch_1646756029501/work/aten/src/ATen/native/IndexingUtils.h:28.)
+  next_state_values[non_final_mask] = self.target_net(non_final_next_states).max(1)[0].detach()
+Episode 118/200 Duration: 200 AVG: 195
+Policy Reward: 200
+ 60%|████████████████████████████████████████████████████████████████████████████▊                                                    | 119/200 [01:18<00:56,  1.43it/s]/Users/tuhinatripathi/Desktop/Desktop – Tuhina’s MacBook Air/CU/Thesis/Cartpole-IRL/dqn.py:129: UserWarning: indexing with dtype torch.uint8 is now deprecated, please use a dtype torch.bool instead. (Triggered internally at  /Users/distiller/project/conda/conda-bld/pytorch_1646756029501/work/aten/src/ATen/native/IndexingUtils.h:28.)
+  next_state_values[non_final_mask] = self.target_net(non_final_next_states).max(1)[0].detach()
+Episode 119/200 Duration: 200 AVG: 197
+Policy Reward: 200
+ 60%|█████████████████████████████████████████████████████████████████████████████▍                                                   | 120/200 [01:19<00:55,  1.44it/s]/Users/tuhinatripathi/Desktop/Desktop – Tuhina’s MacBook Air/CU/Thesis/Cartpole-IRL/dqn.py:129: UserWarning: indexing with dtype torch.uint8 is now deprecated, please use a dtype torch.bool instead. (Triggered internally at  /Users/distiller/project/conda/conda-bld/pytorch_1646756029501/work/aten/src/ATen/native/IndexingUtils.h:28.)
+  next_state_values[non_final_mask] = self.target_net(non_final_next_states).max(1)[0].detach()
+Episode 120/200 Duration: 200 AVG: 198
+Policy Reward: 200
+ 60%|██████████████████████████████████████████████████████████████████████████████                                                   | 121/200 [01:20<00:54,  1.46it/s]/Users/tuhinatripathi/Desktop/Desktop – Tuhina’s MacBook Air/CU/Thesis/Cartpole-IRL/dqn.py:129: UserWarning: indexing with dtype torch.uint8 is now deprecated, please use a dtype torch.bool instead. (Triggered internally at  /Users/distiller/project/conda/conda-bld/pytorch_1646756029501/work/aten/src/ATen/native/IndexingUtils.h:28.)
+  next_state_values[non_final_mask] = self.target_net(non_final_next_states).max(1)[0].detach()
+Episode 121/200 Duration: 200 AVG: 199
+Policy Reward: 200
+ 61%|██████████████████████████████████████████████████████████████████████████████▋                                                  | 122/200 [01:20<00:52,  1.49it/s]/Users/tuhinatripathi/Desktop/Desktop – Tuhina’s MacBook Air/CU/Thesis/Cartpole-IRL/dqn.py:129: UserWarning: indexing with dtype torch.uint8 is now deprecated, please use a dtype torch.bool instead. (Triggered internally at  /Users/distiller/project/conda/conda-bld/pytorch_1646756029501/work/aten/src/ATen/native/IndexingUtils.h:28.)
+  next_state_values[non_final_mask] = self.target_net(non_final_next_states).max(1)[0].detach()
+Episode 122/200 Duration: 200 AVG: 199
+Policy Reward: 200
+ 62%|███████████████████████████████████████████████████████████████████████████████▎                                                 | 123/200 [01:21<00:56,  1.36it/s]/Users/tuhinatripathi/Desktop/Desktop – Tuhina’s MacBook Air/CU/Thesis/Cartpole-IRL/dqn.py:129: UserWarning: indexing with dtype torch.uint8 is now deprecated, please use a dtype torch.bool instead. (Triggered internally at  /Users/distiller/project/conda/conda-bld/pytorch_1646756029501/work/aten/src/ATen/native/IndexingUtils.h:28.)
+  next_state_values[non_final_mask] = self.target_net(non_final_next_states).max(1)[0].detach()
+Episode 123/200 Duration: 200 AVG: 199
+Policy Reward: 200
+ 62%|███████████████████████████████████████████████████████████████████████████████▉                                                 | 124/200 [01:22<00:53,  1.41it/s]/Users/tuhinatripathi/Desktop/Desktop – Tuhina’s MacBook Air/CU/Thesis/Cartpole-IRL/dqn.py:129: UserWarning: indexing with dtype torch.uint8 is now deprecated, please use a dtype torch.bool instead. (Triggered internally at  /Users/distiller/project/conda/conda-bld/pytorch_1646756029501/work/aten/src/ATen/native/IndexingUtils.h:28.)
+  next_state_values[non_final_mask] = self.target_net(non_final_next_states).max(1)[0].detach()
+Episode 124/200 Duration: 200 AVG: 199
+Policy Reward: 200
+ 62%|████████████████████████████████████████████████████████████████████████████████▋                                                | 125/200 [01:23<00:52,  1.42it/s]/Users/tuhinatripathi/Desktop/Desktop – Tuhina’s MacBook Air/CU/Thesis/Cartpole-IRL/dqn.py:129: UserWarning: indexing with dtype torch.uint8 is now deprecated, please use a dtype torch.bool instead. (Triggered internally at  /Users/distiller/project/conda/conda-bld/pytorch_1646756029501/work/aten/src/ATen/native/IndexingUtils.h:28.)
+  next_state_values[non_final_mask] = self.target_net(non_final_next_states).max(1)[0].detach()
+Episode 125/200 Duration: 200 AVG: 199
+Policy Reward: 200
+ 63%|█████████████████████████████████████████████████████████████████████████████████▎                                               | 126/200 [01:23<00:52,  1.41it/s]/Users/tuhinatripathi/Desktop/Desktop – Tuhina’s MacBook Air/CU/Thesis/Cartpole-IRL/dqn.py:129: UserWarning: indexing with dtype torch.uint8 is now deprecated, please use a dtype torch.bool instead. (Triggered internally at  /Users/distiller/project/conda/conda-bld/pytorch_1646756029501/work/aten/src/ATen/native/IndexingUtils.h:28.)
+  next_state_values[non_final_mask] = self.target_net(non_final_next_states).max(1)[0].detach()
+Episode 126/200 Duration: 200 AVG: 199
+Policy Reward: 200
+ 64%|█████████████████████████████████████████████████████████████████████████████████▉                                               | 127/200 [01:24<00:57,  1.28it/s]/Users/tuhinatripathi/Desktop/Desktop – Tuhina’s MacBook Air/CU/Thesis/Cartpole-IRL/dqn.py:129: UserWarning: indexing with dtype torch.uint8 is now deprecated, please use a dtype torch.bool instead. (Triggered internally at  /Users/distiller/project/conda/conda-bld/pytorch_1646756029501/work/aten/src/ATen/native/IndexingUtils.h:28.)
+  next_state_values[non_final_mask] = self.target_net(non_final_next_states).max(1)[0].detach()
+Episode 127/200 Duration: 200 AVG: 199
+Policy Reward: 200
+ 64%|██████████████████████████████████████████████████████████████████████████████████▌                                              | 128/200 [01:25<00:57,  1.25it/s]/Users/tuhinatripathi/Desktop/Desktop – Tuhina’s MacBook Air/CU/Thesis/Cartpole-IRL/dqn.py:129: UserWarning: indexing with dtype torch.uint8 is now deprecated, please use a dtype torch.bool instead. (Triggered internally at  /Users/distiller/project/conda/conda-bld/pytorch_1646756029501/work/aten/src/ATen/native/IndexingUtils.h:28.)
+  next_state_values[non_final_mask] = self.target_net(non_final_next_states).max(1)[0].detach()
+Episode 128/200 Duration: 200 AVG: 199
+Policy Reward: 200
+ 64%|███████████████████████████████████████████████████████████████████████████████████▏                                             | 129/200 [01:26<00:57,  1.23it/s]/Users/tuhinatripathi/Desktop/Desktop – Tuhina’s MacBook Air/CU/Thesis/Cartpole-IRL/dqn.py:129: UserWarning: indexing with dtype torch.uint8 is now deprecated, please use a dtype torch.bool instead. (Triggered internally at  /Users/distiller/project/conda/conda-bld/pytorch_1646756029501/work/aten/src/ATen/native/IndexingUtils.h:28.)
+  next_state_values[non_final_mask] = self.target_net(non_final_next_states).max(1)[0].detach()
+Episode 129/200 Duration: 200 AVG: 199
+Policy Reward: 200
+ 65%|███████████████████████████████████████████████████████████████████████████████████▊                                             | 130/200 [01:27<00:58,  1.20it/s]/Users/tuhinatripathi/Desktop/Desktop – Tuhina’s MacBook Air/CU/Thesis/Cartpole-IRL/dqn.py:129: UserWarning: indexing with dtype torch.uint8 is now deprecated, please use a dtype torch.bool instead. (Triggered internally at  /Users/distiller/project/conda/conda-bld/pytorch_1646756029501/work/aten/src/ATen/native/IndexingUtils.h:28.)
+  next_state_values[non_final_mask] = self.target_net(non_final_next_states).max(1)[0].detach()
+Episode 130/200 Duration: 200 AVG: 199
+Policy Reward: 200
+ 66%|████████████████████████████████████████████████████████████████████████████████████▍                                            | 131/200 [01:28<00:56,  1.22it/s]/Users/tuhinatripathi/Desktop/Desktop – Tuhina’s MacBook Air/CU/Thesis/Cartpole-IRL/dqn.py:129: UserWarning: indexing with dtype torch.uint8 is now deprecated, please use a dtype torch.bool instead. (Triggered internally at  /Users/distiller/project/conda/conda-bld/pytorch_1646756029501/work/aten/src/ATen/native/IndexingUtils.h:28.)
+  next_state_values[non_final_mask] = self.target_net(non_final_next_states).max(1)[0].detach()
+Episode 131/200 Duration: 200 AVG: 199
+Policy Reward: 200
+ 66%|█████████████████████████████████████████████████████████████████████████████████████▏                                           | 132/200 [01:28<00:53,  1.26it/s]/Users/tuhinatripathi/Desktop/Desktop – Tuhina’s MacBook Air/CU/Thesis/Cartpole-IRL/dqn.py:129: UserWarning: indexing with dtype torch.uint8 is now deprecated, please use a dtype torch.bool instead. (Triggered internally at  /Users/distiller/project/conda/conda-bld/pytorch_1646756029501/work/aten/src/ATen/native/IndexingUtils.h:28.)
+  next_state_values[non_final_mask] = self.target_net(non_final_next_states).max(1)[0].detach()
+Episode 132/200 Duration: 200 AVG: 199
+Policy Reward: 200
+ 66%|█████████████████████████████████████████████████████████████████████████████████████▊                                           | 133/200 [01:30<01:01,  1.10it/s]/Users/tuhinatripathi/Desktop/Desktop – Tuhina’s MacBook Air/CU/Thesis/Cartpole-IRL/dqn.py:129: UserWarning: indexing with dtype torch.uint8 is now deprecated, please use a dtype torch.bool instead. (Triggered internally at  /Users/distiller/project/conda/conda-bld/pytorch_1646756029501/work/aten/src/ATen/native/IndexingUtils.h:28.)
+  next_state_values[non_final_mask] = self.target_net(non_final_next_states).max(1)[0].detach()
+Episode 133/200 Duration: 200 AVG: 199
+Policy Reward: 200
+ 67%|██████████████████████████████████████████████████████████████████████████████████████▍                                          | 134/200 [01:31<01:01,  1.07it/s]/Users/tuhinatripathi/Desktop/Desktop – Tuhina’s MacBook Air/CU/Thesis/Cartpole-IRL/dqn.py:129: UserWarning: indexing with dtype torch.uint8 is now deprecated, please use a dtype torch.bool instead. (Triggered internally at  /Users/distiller/project/conda/conda-bld/pytorch_1646756029501/work/aten/src/ATen/native/IndexingUtils.h:28.)
+  next_state_values[non_final_mask] = self.target_net(non_final_next_states).max(1)[0].detach()
+Episode 134/200 Duration: 200 AVG: 199
+Policy Reward: 200
+ 68%|███████████████████████████████████████████████████████████████████████████████████████                                          | 135/200 [01:31<00:58,  1.12it/s]/Users/tuhinatripathi/Desktop/Desktop – Tuhina’s MacBook Air/CU/Thesis/Cartpole-IRL/dqn.py:129: UserWarning: indexing with dtype torch.uint8 is now deprecated, please use a dtype torch.bool instead. (Triggered internally at  /Users/distiller/project/conda/conda-bld/pytorch_1646756029501/work/aten/src/ATen/native/IndexingUtils.h:28.)
+  next_state_values[non_final_mask] = self.target_net(non_final_next_states).max(1)[0].detach()
+Episode 135/200 Duration: 200 AVG: 199
+Policy Reward: 200
+ 68%|███████████████████████████████████████████████████████████████████████████████████████▋                                         | 136/200 [01:32<00:53,  1.19it/s]/Users/tuhinatripathi/Desktop/Desktop – Tuhina’s MacBook Air/CU/Thesis/Cartpole-IRL/dqn.py:129: UserWarning: indexing with dtype torch.uint8 is now deprecated, please use a dtype torch.bool instead. (Triggered internally at  /Users/distiller/project/conda/conda-bld/pytorch_1646756029501/work/aten/src/ATen/native/IndexingUtils.h:28.)
+  next_state_values[non_final_mask] = self.target_net(non_final_next_states).max(1)[0].detach()
+Episode 136/200 Duration: 200 AVG: 199
+Policy Reward: 200
+ 68%|████████████████████████████████████████████████████████████████████████████████████████▎                                        | 137/200 [01:33<00:52,  1.19it/s]/Users/tuhinatripathi/Desktop/Desktop – Tuhina’s MacBook Air/CU/Thesis/Cartpole-IRL/dqn.py:129: UserWarning: indexing with dtype torch.uint8 is now deprecated, please use a dtype torch.bool instead. (Triggered internally at  /Users/distiller/project/conda/conda-bld/pytorch_1646756029501/work/aten/src/ATen/native/IndexingUtils.h:28.)
+  next_state_values[non_final_mask] = self.target_net(non_final_next_states).max(1)[0].detach()
+Episode 137/200 Duration: 200 AVG: 199
+Policy Reward: 200
+ 69%|█████████████████████████████████████████████████████████████████████████████████████████                                        | 138/200 [01:34<00:49,  1.25it/s]/Users/tuhinatripathi/Desktop/Desktop – Tuhina’s MacBook Air/CU/Thesis/Cartpole-IRL/dqn.py:129: UserWarning: indexing with dtype torch.uint8 is now deprecated, please use a dtype torch.bool instead. (Triggered internally at  /Users/distiller/project/conda/conda-bld/pytorch_1646756029501/work/aten/src/ATen/native/IndexingUtils.h:28.)
+  next_state_values[non_final_mask] = self.target_net(non_final_next_states).max(1)[0].detach()
+Episode 138/200 Duration: 200 AVG: 199
+Policy Reward: 200
+ 70%|█████████████████████████████████████████████████████████████████████████████████████████▋                                       | 139/200 [01:34<00:49,  1.23it/s]/Users/tuhinatripathi/Desktop/Desktop – Tuhina’s MacBook Air/CU/Thesis/Cartpole-IRL/dqn.py:129: UserWarning: indexing with dtype torch.uint8 is now deprecated, please use a dtype torch.bool instead. (Triggered internally at  /Users/distiller/project/conda/conda-bld/pytorch_1646756029501/work/aten/src/ATen/native/IndexingUtils.h:28.)
+  next_state_values[non_final_mask] = self.target_net(non_final_next_states).max(1)[0].detach()
+Episode 139/200 Duration: 200 AVG: 199
+Policy Reward: 200
+ 70%|██████████████████████████████████████████████████████████████████████████████████████████▎                                      | 140/200 [01:35<00:47,  1.27it/s]/Users/tuhinatripathi/Desktop/Desktop – Tuhina’s MacBook Air/CU/Thesis/Cartpole-IRL/dqn.py:129: UserWarning: indexing with dtype torch.uint8 is now deprecated, please use a dtype torch.bool instead. (Triggered internally at  /Users/distiller/project/conda/conda-bld/pytorch_1646756029501/work/aten/src/ATen/native/IndexingUtils.h:28.)
+  next_state_values[non_final_mask] = self.target_net(non_final_next_states).max(1)[0].detach()
+Episode 140/200 Duration: 200 AVG: 200
+Policy Reward: 200
+ 70%|██████████████████████████████████████████████████████████████████████████████████████████▉                                      | 141/200 [01:36<00:45,  1.30it/s]/Users/tuhinatripathi/Desktop/Desktop – Tuhina’s MacBook Air/CU/Thesis/Cartpole-IRL/dqn.py:129: UserWarning: indexing with dtype torch.uint8 is now deprecated, please use a dtype torch.bool instead. (Triggered internally at  /Users/distiller/project/conda/conda-bld/pytorch_1646756029501/work/aten/src/ATen/native/IndexingUtils.h:28.)
+  next_state_values[non_final_mask] = self.target_net(non_final_next_states).max(1)[0].detach()
+Episode 141/200 Duration: 200 AVG: 200
+Policy Reward: 200
+ 71%|███████████████████████████████████████████████████████████████████████████████████████████▌                                     | 142/200 [01:37<00:44,  1.29it/s]/Users/tuhinatripathi/Desktop/Desktop – Tuhina’s MacBook Air/CU/Thesis/Cartpole-IRL/dqn.py:129: UserWarning: indexing with dtype torch.uint8 is now deprecated, please use a dtype torch.bool instead. (Triggered internally at  /Users/distiller/project/conda/conda-bld/pytorch_1646756029501/work/aten/src/ATen/native/IndexingUtils.h:28.)
+  next_state_values[non_final_mask] = self.target_net(non_final_next_states).max(1)[0].detach()
+Episode 142/200 Duration: 200 AVG: 200
+Policy Reward: 200
+ 72%|████████████████████████████████████████████████████████████████████████████████████████████▏                                    | 143/200 [01:37<00:44,  1.29it/s]/Users/tuhinatripathi/Desktop/Desktop – Tuhina’s MacBook Air/CU/Thesis/Cartpole-IRL/dqn.py:129: UserWarning: indexing with dtype torch.uint8 is now deprecated, please use a dtype torch.bool instead. (Triggered internally at  /Users/distiller/project/conda/conda-bld/pytorch_1646756029501/work/aten/src/ATen/native/IndexingUtils.h:28.)
+  next_state_values[non_final_mask] = self.target_net(non_final_next_states).max(1)[0].detach()
+Episode 143/200 Duration: 200 AVG: 200
+Policy Reward: 200
+ 72%|████████████████████████████████████████████████████████████████████████████████████████████▉                                    | 144/200 [01:38<00:45,  1.22it/s]/Users/tuhinatripathi/Desktop/Desktop – Tuhina’s MacBook Air/CU/Thesis/Cartpole-IRL/dqn.py:129: UserWarning: indexing with dtype torch.uint8 is now deprecated, please use a dtype torch.bool instead. (Triggered internally at  /Users/distiller/project/conda/conda-bld/pytorch_1646756029501/work/aten/src/ATen/native/IndexingUtils.h:28.)
+  next_state_values[non_final_mask] = self.target_net(non_final_next_states).max(1)[0].detach()
+Episode 144/200 Duration: 200 AVG: 200
+Policy Reward: 200
+ 72%|█████████████████████████████████████████████████████████████████████████████████████████████▌                                   | 145/200 [01:39<00:44,  1.25it/s]/Users/tuhinatripathi/Desktop/Desktop – Tuhina’s MacBook Air/CU/Thesis/Cartpole-IRL/dqn.py:129: UserWarning: indexing with dtype torch.uint8 is now deprecated, please use a dtype torch.bool instead. (Triggered internally at  /Users/distiller/project/conda/conda-bld/pytorch_1646756029501/work/aten/src/ATen/native/IndexingUtils.h:28.)
+  next_state_values[non_final_mask] = self.target_net(non_final_next_states).max(1)[0].detach()
+Episode 145/200 Duration: 200 AVG: 200
+Policy Reward: 200
+ 73%|██████████████████████████████████████████████████████████████████████████████████████████████▏                                  | 146/200 [01:40<00:50,  1.07it/s]/Users/tuhinatripathi/Desktop/Desktop – Tuhina’s MacBook Air/CU/Thesis/Cartpole-IRL/dqn.py:129: UserWarning: indexing with dtype torch.uint8 is now deprecated, please use a dtype torch.bool instead. (Triggered internally at  /Users/distiller/project/conda/conda-bld/pytorch_1646756029501/work/aten/src/ATen/native/IndexingUtils.h:28.)
+  next_state_values[non_final_mask] = self.target_net(non_final_next_states).max(1)[0].detach()
+Episode 146/200 Duration: 200 AVG: 200
+Policy Reward: 200
+ 74%|██████████████████████████████████████████████████████████████████████████████████████████████▊                                  | 147/200 [01:41<00:48,  1.10it/s]/Users/tuhinatripathi/Desktop/Desktop – Tuhina’s MacBook Air/CU/Thesis/Cartpole-IRL/dqn.py:129: UserWarning: indexing with dtype torch.uint8 is now deprecated, please use a dtype torch.bool instead. (Triggered internally at  /Users/distiller/project/conda/conda-bld/pytorch_1646756029501/work/aten/src/ATen/native/IndexingUtils.h:28.)
+  next_state_values[non_final_mask] = self.target_net(non_final_next_states).max(1)[0].detach()
+Episode 147/200 Duration: 200 AVG: 200
+Policy Reward: 200
+ 74%|███████████████████████████████████████████████████████████████████████████████████████████████▍                                 | 148/200 [01:42<00:47,  1.10it/s]/Users/tuhinatripathi/Desktop/Desktop – Tuhina’s MacBook Air/CU/Thesis/Cartpole-IRL/dqn.py:129: UserWarning: indexing with dtype torch.uint8 is now deprecated, please use a dtype torch.bool instead. (Triggered internally at  /Users/distiller/project/conda/conda-bld/pytorch_1646756029501/work/aten/src/ATen/native/IndexingUtils.h:28.)
+  next_state_values[non_final_mask] = self.target_net(non_final_next_states).max(1)[0].detach()
+Episode 148/200 Duration: 200 AVG: 200
+Policy Reward: 200
+ 74%|████████████████████████████████████████████████████████████████████████████████████████████████                                 | 149/200 [01:43<00:44,  1.15it/s]/Users/tuhinatripathi/Desktop/Desktop – Tuhina’s MacBook Air/CU/Thesis/Cartpole-IRL/dqn.py:129: UserWarning: indexing with dtype torch.uint8 is now deprecated, please use a dtype torch.bool instead. (Triggered internally at  /Users/distiller/project/conda/conda-bld/pytorch_1646756029501/work/aten/src/ATen/native/IndexingUtils.h:28.)
+  next_state_values[non_final_mask] = self.target_net(non_final_next_states).max(1)[0].detach()
+Episode 149/200 Duration: 200 AVG: 200
+Policy Reward: 200
+ 75%|████████████████████████████████████████████████████████████████████████████████████████████████▊                                | 150/200 [01:44<00:40,  1.24it/s]/Users/tuhinatripathi/Desktop/Desktop – Tuhina’s MacBook Air/CU/Thesis/Cartpole-IRL/dqn.py:129: UserWarning: indexing with dtype torch.uint8 is now deprecated, please use a dtype torch.bool instead. (Triggered internally at  /Users/distiller/project/conda/conda-bld/pytorch_1646756029501/work/aten/src/ATen/native/IndexingUtils.h:28.)
+  next_state_values[non_final_mask] = self.target_net(non_final_next_states).max(1)[0].detach()
+Episode 150/200 Duration: 200 AVG: 200
+Policy Reward: 200
+ 76%|█████████████████████████████████████████████████████████████████████████████████████████████████▍                               | 151/200 [01:44<00:38,  1.28it/s]/Users/tuhinatripathi/Desktop/Desktop – Tuhina’s MacBook Air/CU/Thesis/Cartpole-IRL/dqn.py:129: UserWarning: indexing with dtype torch.uint8 is now deprecated, please use a dtype torch.bool instead. (Triggered internally at  /Users/distiller/project/conda/conda-bld/pytorch_1646756029501/work/aten/src/ATen/native/IndexingUtils.h:28.)
+  next_state_values[non_final_mask] = self.target_net(non_final_next_states).max(1)[0].detach()
+Episode 151/200 Duration: 200 AVG: 200
+Policy Reward: 200
+ 76%|██████████████████████████████████████████████████████████████████████████████████████████████████                               | 152/200 [01:45<00:36,  1.31it/s]/Users/tuhinatripathi/Desktop/Desktop – Tuhina’s MacBook Air/CU/Thesis/Cartpole-IRL/dqn.py:129: UserWarning: indexing with dtype torch.uint8 is now deprecated, please use a dtype torch.bool instead. (Triggered internally at  /Users/distiller/project/conda/conda-bld/pytorch_1646756029501/work/aten/src/ATen/native/IndexingUtils.h:28.)
+  next_state_values[non_final_mask] = self.target_net(non_final_next_states).max(1)[0].detach()
+Episode 152/200 Duration: 200 AVG: 200
+Policy Reward: 200
+ 76%|██████████████████████████████████████████████████████████████████████████████████████████████████▋                              | 153/200 [01:46<00:35,  1.33it/s]/Users/tuhinatripathi/Desktop/Desktop – Tuhina’s MacBook Air/CU/Thesis/Cartpole-IRL/dqn.py:129: UserWarning: indexing with dtype torch.uint8 is now deprecated, please use a dtype torch.bool instead. (Triggered internally at  /Users/distiller/project/conda/conda-bld/pytorch_1646756029501/work/aten/src/ATen/native/IndexingUtils.h:28.)
+  next_state_values[non_final_mask] = self.target_net(non_final_next_states).max(1)[0].detach()
+Episode 153/200 Duration: 200 AVG: 200
+Policy Reward: 200
+ 77%|███████████████████████████████████████████████████████████████████████████████████████████████████▎                             | 154/200 [01:46<00:33,  1.36it/s]/Users/tuhinatripathi/Desktop/Desktop – Tuhina’s MacBook Air/CU/Thesis/Cartpole-IRL/dqn.py:129: UserWarning: indexing with dtype torch.uint8 is now deprecated, please use a dtype torch.bool instead. (Triggered internally at  /Users/distiller/project/conda/conda-bld/pytorch_1646756029501/work/aten/src/ATen/native/IndexingUtils.h:28.)
+  next_state_values[non_final_mask] = self.target_net(non_final_next_states).max(1)[0].detach()
+Episode 154/200 Duration: 200 AVG: 200
+Policy Reward: 200
+ 78%|███████████████████████████████████████████████████████████████████████████████████████████████████▉                             | 155/200 [01:47<00:32,  1.38it/s]/Users/tuhinatripathi/Desktop/Desktop – Tuhina’s MacBook Air/CU/Thesis/Cartpole-IRL/dqn.py:129: UserWarning: indexing with dtype torch.uint8 is now deprecated, please use a dtype torch.bool instead. (Triggered internally at  /Users/distiller/project/conda/conda-bld/pytorch_1646756029501/work/aten/src/ATen/native/IndexingUtils.h:28.)
+  next_state_values[non_final_mask] = self.target_net(non_final_next_states).max(1)[0].detach()
+Episode 155/200 Duration: 200 AVG: 200
+Policy Reward: 200
+ 78%|████████████████████████████████████████████████████████████████████████████████████████████████████▌                            | 156/200 [01:48<00:31,  1.38it/s]/Users/tuhinatripathi/Desktop/Desktop – Tuhina’s MacBook Air/CU/Thesis/Cartpole-IRL/dqn.py:129: UserWarning: indexing with dtype torch.uint8 is now deprecated, please use a dtype torch.bool instead. (Triggered internally at  /Users/distiller/project/conda/conda-bld/pytorch_1646756029501/work/aten/src/ATen/native/IndexingUtils.h:28.)
+  next_state_values[non_final_mask] = self.target_net(non_final_next_states).max(1)[0].detach()
+Episode 156/200 Duration: 200 AVG: 200
+Policy Reward: 200
+ 78%|█████████████████████████████████████████████████████████████████████████████████████████████████████▎                           | 157/200 [01:49<00:30,  1.39it/s]/Users/tuhinatripathi/Desktop/Desktop – Tuhina’s MacBook Air/CU/Thesis/Cartpole-IRL/dqn.py:129: UserWarning: indexing with dtype torch.uint8 is now deprecated, please use a dtype torch.bool instead. (Triggered internally at  /Users/distiller/project/conda/conda-bld/pytorch_1646756029501/work/aten/src/ATen/native/IndexingUtils.h:28.)
+  next_state_values[non_final_mask] = self.target_net(non_final_next_states).max(1)[0].detach()
+Episode 157/200 Duration: 200 AVG: 200
+Policy Reward: 200
+ 79%|█████████████████████████████████████████████████████████████████████████████████████████████████████▉                           | 158/200 [01:49<00:31,  1.34it/s]/Users/tuhinatripathi/Desktop/Desktop – Tuhina’s MacBook Air/CU/Thesis/Cartpole-IRL/dqn.py:129: UserWarning: indexing with dtype torch.uint8 is now deprecated, please use a dtype torch.bool instead. (Triggered internally at  /Users/distiller/project/conda/conda-bld/pytorch_1646756029501/work/aten/src/ATen/native/IndexingUtils.h:28.)
+  next_state_values[non_final_mask] = self.target_net(non_final_next_states).max(1)[0].detach()
+Episode 158/200 Duration: 200 AVG: 200
+Policy Reward: 200
+ 80%|██████████████████████████████████████████████████████████████████████████████████████████████████████▌                          | 159/200 [01:50<00:30,  1.33it/s]/Users/tuhinatripathi/Desktop/Desktop – Tuhina’s MacBook Air/CU/Thesis/Cartpole-IRL/dqn.py:129: UserWarning: indexing with dtype torch.uint8 is now deprecated, please use a dtype torch.bool instead. (Triggered internally at  /Users/distiller/project/conda/conda-bld/pytorch_1646756029501/work/aten/src/ATen/native/IndexingUtils.h:28.)
+  next_state_values[non_final_mask] = self.target_net(non_final_next_states).max(1)[0].detach()
+Episode 159/200 Duration: 200 AVG: 200
+Policy Reward: 200
+ 80%|███████████████████████████████████████████████████████████████████████████████████████████████████████▏                         | 160/200 [01:51<00:29,  1.34it/s]/Users/tuhinatripathi/Desktop/Desktop – Tuhina’s MacBook Air/CU/Thesis/Cartpole-IRL/dqn.py:129: UserWarning: indexing with dtype torch.uint8 is now deprecated, please use a dtype torch.bool instead. (Triggered internally at  /Users/distiller/project/conda/conda-bld/pytorch_1646756029501/work/aten/src/ATen/native/IndexingUtils.h:28.)
+  next_state_values[non_final_mask] = self.target_net(non_final_next_states).max(1)[0].detach()
+Episode 160/200 Duration: 200 AVG: 200
+Policy Reward: 200
+ 80%|███████████████████████████████████████████████████████████████████████████████████████████████████████▊                         | 161/200 [01:52<00:28,  1.35it/s]/Users/tuhinatripathi/Desktop/Desktop – Tuhina’s MacBook Air/CU/Thesis/Cartpole-IRL/dqn.py:129: UserWarning: indexing with dtype torch.uint8 is now deprecated, please use a dtype torch.bool instead. (Triggered internally at  /Users/distiller/project/conda/conda-bld/pytorch_1646756029501/work/aten/src/ATen/native/IndexingUtils.h:28.)
+  next_state_values[non_final_mask] = self.target_net(non_final_next_states).max(1)[0].detach()
+Episode 161/200 Duration: 200 AVG: 200
+Policy Reward: 200
+ 81%|████████████████████████████████████████████████████████████████████████████████████████████████████████▍                        | 162/200 [01:52<00:27,  1.36it/s]/Users/tuhinatripathi/Desktop/Desktop – Tuhina’s MacBook Air/CU/Thesis/Cartpole-IRL/dqn.py:129: UserWarning: indexing with dtype torch.uint8 is now deprecated, please use a dtype torch.bool instead. (Triggered internally at  /Users/distiller/project/conda/conda-bld/pytorch_1646756029501/work/aten/src/ATen/native/IndexingUtils.h:28.)
+  next_state_values[non_final_mask] = self.target_net(non_final_next_states).max(1)[0].detach()
+Episode 162/200 Duration: 200 AVG: 200
+Policy Reward: 200
+ 82%|█████████████████████████████████████████████████████████████████████████████████████████████████████████▏                       | 163/200 [01:53<00:28,  1.31it/s]/Users/tuhinatripathi/Desktop/Desktop – Tuhina’s MacBook Air/CU/Thesis/Cartpole-IRL/dqn.py:129: UserWarning: indexing with dtype torch.uint8 is now deprecated, please use a dtype torch.bool instead. (Triggered internally at  /Users/distiller/project/conda/conda-bld/pytorch_1646756029501/work/aten/src/ATen/native/IndexingUtils.h:28.)
+  next_state_values[non_final_mask] = self.target_net(non_final_next_states).max(1)[0].detach()
+Episode 163/200 Duration: 200 AVG: 200
+Policy Reward: 200
+ 82%|█████████████████████████████████████████████████████████████████████████████████████████████████████████▊                       | 164/200 [01:54<00:27,  1.29it/s]/Users/tuhinatripathi/Desktop/Desktop – Tuhina’s MacBook Air/CU/Thesis/Cartpole-IRL/dqn.py:129: UserWarning: indexing with dtype torch.uint8 is now deprecated, please use a dtype torch.bool instead. (Triggered internally at  /Users/distiller/project/conda/conda-bld/pytorch_1646756029501/work/aten/src/ATen/native/IndexingUtils.h:28.)
+  next_state_values[non_final_mask] = self.target_net(non_final_next_states).max(1)[0].detach()
+Episode 164/200 Duration: 200 AVG: 200
+Policy Reward: 200
+ 82%|██████████████████████████████████████████████████████████████████████████████████████████████████████████▍                      | 165/200 [01:55<00:26,  1.32it/s]/Users/tuhinatripathi/Desktop/Desktop – Tuhina’s MacBook Air/CU/Thesis/Cartpole-IRL/dqn.py:129: UserWarning: indexing with dtype torch.uint8 is now deprecated, please use a dtype torch.bool instead. (Triggered internally at  /Users/distiller/project/conda/conda-bld/pytorch_1646756029501/work/aten/src/ATen/native/IndexingUtils.h:28.)
+  next_state_values[non_final_mask] = self.target_net(non_final_next_states).max(1)[0].detach()
+Episode 165/200 Duration: 200 AVG: 200
+Policy Reward: 200
+ 83%|███████████████████████████████████████████████████████████████████████████████████████████████████████████                      | 166/200 [01:55<00:25,  1.32it/s]/Users/tuhinatripathi/Desktop/Desktop – Tuhina’s MacBook Air/CU/Thesis/Cartpole-IRL/dqn.py:129: UserWarning: indexing with dtype torch.uint8 is now deprecated, please use a dtype torch.bool instead. (Triggered internally at  /Users/distiller/project/conda/conda-bld/pytorch_1646756029501/work/aten/src/ATen/native/IndexingUtils.h:28.)
+  next_state_values[non_final_mask] = self.target_net(non_final_next_states).max(1)[0].detach()
+Episode 166/200 Duration: 200 AVG: 200
+Policy Reward: 200
+ 84%|███████████████████████████████████████████████████████████████████████████████████████████████████████████▋                     | 167/200 [01:56<00:24,  1.34it/s]/Users/tuhinatripathi/Desktop/Desktop – Tuhina’s MacBook Air/CU/Thesis/Cartpole-IRL/dqn.py:129: UserWarning: indexing with dtype torch.uint8 is now deprecated, please use a dtype torch.bool instead. (Triggered internally at  /Users/distiller/project/conda/conda-bld/pytorch_1646756029501/work/aten/src/ATen/native/IndexingUtils.h:28.)
+  next_state_values[non_final_mask] = self.target_net(non_final_next_states).max(1)[0].detach()
+Episode 167/200 Duration: 200 AVG: 200
+Policy Reward: 200
+ 84%|████████████████████████████████████████████████████████████████████████████████████████████████████████████▎                    | 168/200 [01:57<00:23,  1.34it/s]/Users/tuhinatripathi/Desktop/Desktop – Tuhina’s MacBook Air/CU/Thesis/Cartpole-IRL/dqn.py:129: UserWarning: indexing with dtype torch.uint8 is now deprecated, please use a dtype torch.bool instead. (Triggered internally at  /Users/distiller/project/conda/conda-bld/pytorch_1646756029501/work/aten/src/ATen/native/IndexingUtils.h:28.)
+  next_state_values[non_final_mask] = self.target_net(non_final_next_states).max(1)[0].detach()
+Episode 168/200 Duration: 200 AVG: 200
+Policy Reward: 200
+ 84%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████                    | 169/200 [01:58<00:22,  1.35it/s]/Users/tuhinatripathi/Desktop/Desktop – Tuhina’s MacBook Air/CU/Thesis/Cartpole-IRL/dqn.py:129: UserWarning: indexing with dtype torch.uint8 is now deprecated, please use a dtype torch.bool instead. (Triggered internally at  /Users/distiller/project/conda/conda-bld/pytorch_1646756029501/work/aten/src/ATen/native/IndexingUtils.h:28.)
+  next_state_values[non_final_mask] = self.target_net(non_final_next_states).max(1)[0].detach()
+Episode 169/200 Duration: 200 AVG: 200
+Policy Reward: 200
+ 85%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████▋                   | 170/200 [01:58<00:21,  1.37it/s]/Users/tuhinatripathi/Desktop/Desktop – Tuhina’s MacBook Air/CU/Thesis/Cartpole-IRL/dqn.py:129: UserWarning: indexing with dtype torch.uint8 is now deprecated, please use a dtype torch.bool instead. (Triggered internally at  /Users/distiller/project/conda/conda-bld/pytorch_1646756029501/work/aten/src/ATen/native/IndexingUtils.h:28.)
+  next_state_values[non_final_mask] = self.target_net(non_final_next_states).max(1)[0].detach()
+Episode 170/200 Duration: 200 AVG: 200
+Policy Reward: 200
+ 86%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████▎                  | 171/200 [01:59<00:21,  1.37it/s]/Users/tuhinatripathi/Desktop/Desktop – Tuhina’s MacBook Air/CU/Thesis/Cartpole-IRL/dqn.py:129: UserWarning: indexing with dtype torch.uint8 is now deprecated, please use a dtype torch.bool instead. (Triggered internally at  /Users/distiller/project/conda/conda-bld/pytorch_1646756029501/work/aten/src/ATen/native/IndexingUtils.h:28.)
+  next_state_values[non_final_mask] = self.target_net(non_final_next_states).max(1)[0].detach()
+Episode 171/200 Duration: 200 AVG: 200
+Policy Reward: 200
+ 86%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████▉                  | 172/200 [02:00<00:20,  1.38it/s]/Users/tuhinatripathi/Desktop/Desktop – Tuhina’s MacBook Air/CU/Thesis/Cartpole-IRL/dqn.py:129: UserWarning: indexing with dtype torch.uint8 is now deprecated, please use a dtype torch.bool instead. (Triggered internally at  /Users/distiller/project/conda/conda-bld/pytorch_1646756029501/work/aten/src/ATen/native/IndexingUtils.h:28.)
+  next_state_values[non_final_mask] = self.target_net(non_final_next_states).max(1)[0].detach()
+Episode 172/200 Duration: 200 AVG: 200
+Policy Reward: 200
+ 86%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████▌                 | 173/200 [02:00<00:19,  1.39it/s]/Users/tuhinatripathi/Desktop/Desktop – Tuhina’s MacBook Air/CU/Thesis/Cartpole-IRL/dqn.py:129: UserWarning: indexing with dtype torch.uint8 is now deprecated, please use a dtype torch.bool instead. (Triggered internally at  /Users/distiller/project/conda/conda-bld/pytorch_1646756029501/work/aten/src/ATen/native/IndexingUtils.h:28.)
+  next_state_values[non_final_mask] = self.target_net(non_final_next_states).max(1)[0].detach()
+Episode 173/200 Duration: 200 AVG: 200
+Policy Reward: 200
+ 87%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████▏                | 174/200 [02:01<00:19,  1.34it/s]/Users/tuhinatripathi/Desktop/Desktop – Tuhina’s MacBook Air/CU/Thesis/Cartpole-IRL/dqn.py:129: UserWarning: indexing with dtype torch.uint8 is now deprecated, please use a dtype torch.bool instead. (Triggered internally at  /Users/distiller/project/conda/conda-bld/pytorch_1646756029501/work/aten/src/ATen/native/IndexingUtils.h:28.)
+  next_state_values[non_final_mask] = self.target_net(non_final_next_states).max(1)[0].detach()
+Episode 174/200 Duration: 200 AVG: 200
+Policy Reward: 200
+ 88%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████▉                | 175/200 [02:02<00:18,  1.34it/s]/Users/tuhinatripathi/Desktop/Desktop – Tuhina’s MacBook Air/CU/Thesis/Cartpole-IRL/dqn.py:129: UserWarning: indexing with dtype torch.uint8 is now deprecated, please use a dtype torch.bool instead. (Triggered internally at  /Users/distiller/project/conda/conda-bld/pytorch_1646756029501/work/aten/src/ATen/native/IndexingUtils.h:28.)
+  next_state_values[non_final_mask] = self.target_net(non_final_next_states).max(1)[0].detach()
+Episode 175/200 Duration: 200 AVG: 200
+Policy Reward: 200
+ 88%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████▌               | 176/200 [02:03<00:18,  1.30it/s]/Users/tuhinatripathi/Desktop/Desktop – Tuhina’s MacBook Air/CU/Thesis/Cartpole-IRL/dqn.py:129: UserWarning: indexing with dtype torch.uint8 is now deprecated, please use a dtype torch.bool instead. (Triggered internally at  /Users/distiller/project/conda/conda-bld/pytorch_1646756029501/work/aten/src/ATen/native/IndexingUtils.h:28.)
+  next_state_values[non_final_mask] = self.target_net(non_final_next_states).max(1)[0].detach()
+Episode 176/200 Duration: 200 AVG: 200
+Policy Reward: 200
+ 88%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████▏              | 177/200 [02:04<00:17,  1.33it/s]/Users/tuhinatripathi/Desktop/Desktop – Tuhina’s MacBook Air/CU/Thesis/Cartpole-IRL/dqn.py:129: UserWarning: indexing with dtype torch.uint8 is now deprecated, please use a dtype torch.bool instead. (Triggered internally at  /Users/distiller/project/conda/conda-bld/pytorch_1646756029501/work/aten/src/ATen/native/IndexingUtils.h:28.)
+  next_state_values[non_final_mask] = self.target_net(non_final_next_states).max(1)[0].detach()
+Episode 177/200 Duration: 200 AVG: 200
+Policy Reward: 200
+ 89%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████▊              | 178/200 [02:04<00:16,  1.34it/s]/Users/tuhinatripathi/Desktop/Desktop – Tuhina’s MacBook Air/CU/Thesis/Cartpole-IRL/dqn.py:129: UserWarning: indexing with dtype torch.uint8 is now deprecated, please use a dtype torch.bool instead. (Triggered internally at  /Users/distiller/project/conda/conda-bld/pytorch_1646756029501/work/aten/src/ATen/native/IndexingUtils.h:28.)
+  next_state_values[non_final_mask] = self.target_net(non_final_next_states).max(1)[0].detach()
+Episode 178/200 Duration: 200 AVG: 200
+Policy Reward: 200
+ 90%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████▍             | 179/200 [02:05<00:17,  1.23it/s]/Users/tuhinatripathi/Desktop/Desktop – Tuhina’s MacBook Air/CU/Thesis/Cartpole-IRL/dqn.py:129: UserWarning: indexing with dtype torch.uint8 is now deprecated, please use a dtype torch.bool instead. (Triggered internally at  /Users/distiller/project/conda/conda-bld/pytorch_1646756029501/work/aten/src/ATen/native/IndexingUtils.h:28.)
+  next_state_values[non_final_mask] = self.target_net(non_final_next_states).max(1)[0].detach()
+Episode 179/200 Duration: 200 AVG: 200
+Policy Reward: 200
+ 90%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████             | 180/200 [02:06<00:17,  1.18it/s]/Users/tuhinatripathi/Desktop/Desktop – Tuhina’s MacBook Air/CU/Thesis/Cartpole-IRL/dqn.py:129: UserWarning: indexing with dtype torch.uint8 is now deprecated, please use a dtype torch.bool instead. (Triggered internally at  /Users/distiller/project/conda/conda-bld/pytorch_1646756029501/work/aten/src/ATen/native/IndexingUtils.h:28.)
+  next_state_values[non_final_mask] = self.target_net(non_final_next_states).max(1)[0].detach()
+Episode 180/200 Duration: 200 AVG: 200
+Policy Reward: 200
+ 90%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▋            | 181/200 [02:07<00:16,  1.16it/s]/Users/tuhinatripathi/Desktop/Desktop – Tuhina’s MacBook Air/CU/Thesis/Cartpole-IRL/dqn.py:129: UserWarning: indexing with dtype torch.uint8 is now deprecated, please use a dtype torch.bool instead. (Triggered internally at  /Users/distiller/project/conda/conda-bld/pytorch_1646756029501/work/aten/src/ATen/native/IndexingUtils.h:28.)
+  next_state_values[non_final_mask] = self.target_net(non_final_next_states).max(1)[0].detach()
+Episode 181/200 Duration: 200 AVG: 200
+Policy Reward: 200
+ 91%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▍           | 182/200 [02:08<00:16,  1.09it/s]/Users/tuhinatripathi/Desktop/Desktop – Tuhina’s MacBook Air/CU/Thesis/Cartpole-IRL/dqn.py:129: UserWarning: indexing with dtype torch.uint8 is now deprecated, please use a dtype torch.bool instead. (Triggered internally at  /Users/distiller/project/conda/conda-bld/pytorch_1646756029501/work/aten/src/ATen/native/IndexingUtils.h:28.)
+  next_state_values[non_final_mask] = self.target_net(non_final_next_states).max(1)[0].detach()
+Episode 182/200 Duration: 200 AVG: 200
+Policy Reward: 200
+ 92%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████           | 183/200 [02:09<00:16,  1.04it/s]/Users/tuhinatripathi/Desktop/Desktop – Tuhina’s MacBook Air/CU/Thesis/Cartpole-IRL/dqn.py:129: UserWarning: indexing with dtype torch.uint8 is now deprecated, please use a dtype torch.bool instead. (Triggered internally at  /Users/distiller/project/conda/conda-bld/pytorch_1646756029501/work/aten/src/ATen/native/IndexingUtils.h:28.)
+  next_state_values[non_final_mask] = self.target_net(non_final_next_states).max(1)[0].detach()
+Episode 183/200 Duration: 200 AVG: 200
+Policy Reward: 200
+ 92%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▋          | 184/200 [02:10<00:14,  1.09it/s]/Users/tuhinatripathi/Desktop/Desktop – Tuhina’s MacBook Air/CU/Thesis/Cartpole-IRL/dqn.py:129: UserWarning: indexing with dtype torch.uint8 is now deprecated, please use a dtype torch.bool instead. (Triggered internally at  /Users/distiller/project/conda/conda-bld/pytorch_1646756029501/work/aten/src/ATen/native/IndexingUtils.h:28.)
+  next_state_values[non_final_mask] = self.target_net(non_final_next_states).max(1)[0].detach()
+Episode 184/200 Duration: 200 AVG: 200
+Policy Reward: 200
+ 92%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▎         | 185/200 [02:11<00:12,  1.20it/s]/Users/tuhinatripathi/Desktop/Desktop – Tuhina’s MacBook Air/CU/Thesis/Cartpole-IRL/dqn.py:129: UserWarning: indexing with dtype torch.uint8 is now deprecated, please use a dtype torch.bool instead. (Triggered internally at  /Users/distiller/project/conda/conda-bld/pytorch_1646756029501/work/aten/src/ATen/native/IndexingUtils.h:28.)
+  next_state_values[non_final_mask] = self.target_net(non_final_next_states).max(1)[0].detach()
+Episode 185/200 Duration: 200 AVG: 200
+Policy Reward: 200
+ 93%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▉         | 186/200 [02:11<00:11,  1.27it/s]/Users/tuhinatripathi/Desktop/Desktop – Tuhina’s MacBook Air/CU/Thesis/Cartpole-IRL/dqn.py:129: UserWarning: indexing with dtype torch.uint8 is now deprecated, please use a dtype torch.bool instead. (Triggered internally at  /Users/distiller/project/conda/conda-bld/pytorch_1646756029501/work/aten/src/ATen/native/IndexingUtils.h:28.)
+  next_state_values[non_final_mask] = self.target_net(non_final_next_states).max(1)[0].detach()
+Episode 186/200 Duration: 200 AVG: 200
+Policy Reward: 200
+ 94%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▌        | 187/200 [02:12<00:09,  1.32it/s]/Users/tuhinatripathi/Desktop/Desktop – Tuhina’s MacBook Air/CU/Thesis/Cartpole-IRL/dqn.py:129: UserWarning: indexing with dtype torch.uint8 is now deprecated, please use a dtype torch.bool instead. (Triggered internally at  /Users/distiller/project/conda/conda-bld/pytorch_1646756029501/work/aten/src/ATen/native/IndexingUtils.h:28.)
+  next_state_values[non_final_mask] = self.target_net(non_final_next_states).max(1)[0].detach()
+Episode 187/200 Duration: 200 AVG: 200
+Policy Reward: 200
+ 94%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▎       | 188/200 [02:13<00:08,  1.36it/s]/Users/tuhinatripathi/Desktop/Desktop – Tuhina’s MacBook Air/CU/Thesis/Cartpole-IRL/dqn.py:129: UserWarning: indexing with dtype torch.uint8 is now deprecated, please use a dtype torch.bool instead. (Triggered internally at  /Users/distiller/project/conda/conda-bld/pytorch_1646756029501/work/aten/src/ATen/native/IndexingUtils.h:28.)
+  next_state_values[non_final_mask] = self.target_net(non_final_next_states).max(1)[0].detach()
+Episode 188/200 Duration: 200 AVG: 200
+Policy Reward: 200
+ 94%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▉       | 189/200 [02:13<00:07,  1.40it/s]/Users/tuhinatripathi/Desktop/Desktop – Tuhina’s MacBook Air/CU/Thesis/Cartpole-IRL/dqn.py:129: UserWarning: indexing with dtype torch.uint8 is now deprecated, please use a dtype torch.bool instead. (Triggered internally at  /Users/distiller/project/conda/conda-bld/pytorch_1646756029501/work/aten/src/ATen/native/IndexingUtils.h:28.)
+  next_state_values[non_final_mask] = self.target_net(non_final_next_states).max(1)[0].detach()
+Episode 189/200 Duration: 200 AVG: 200
+Policy Reward: 200
+ 95%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▌      | 190/200 [02:14<00:07,  1.39it/s]/Users/tuhinatripathi/Desktop/Desktop – Tuhina’s MacBook Air/CU/Thesis/Cartpole-IRL/dqn.py:129: UserWarning: indexing with dtype torch.uint8 is now deprecated, please use a dtype torch.bool instead. (Triggered internally at  /Users/distiller/project/conda/conda-bld/pytorch_1646756029501/work/aten/src/ATen/native/IndexingUtils.h:28.)
+  next_state_values[non_final_mask] = self.target_net(non_final_next_states).max(1)[0].detach()
+Episode 190/200 Duration: 200 AVG: 200
+Policy Reward: 200
+ 96%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▏     | 191/200 [02:15<00:06,  1.32it/s]/Users/tuhinatripathi/Desktop/Desktop – Tuhina’s MacBook Air/CU/Thesis/Cartpole-IRL/dqn.py:129: UserWarning: indexing with dtype torch.uint8 is now deprecated, please use a dtype torch.bool instead. (Triggered internally at  /Users/distiller/project/conda/conda-bld/pytorch_1646756029501/work/aten/src/ATen/native/IndexingUtils.h:28.)
+  next_state_values[non_final_mask] = self.target_net(non_final_next_states).max(1)[0].detach()
+Episode 191/200 Duration: 200 AVG: 200
+Policy Reward: 200
+ 96%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▊     | 192/200 [02:16<00:05,  1.36it/s]/Users/tuhinatripathi/Desktop/Desktop – Tuhina’s MacBook Air/CU/Thesis/Cartpole-IRL/dqn.py:129: UserWarning: indexing with dtype torch.uint8 is now deprecated, please use a dtype torch.bool instead. (Triggered internally at  /Users/distiller/project/conda/conda-bld/pytorch_1646756029501/work/aten/src/ATen/native/IndexingUtils.h:28.)
+  next_state_values[non_final_mask] = self.target_net(non_final_next_states).max(1)[0].detach()
+Episode 192/200 Duration: 200 AVG: 200
+Policy Reward: 200
+ 96%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▍    | 193/200 [02:16<00:05,  1.39it/s]/Users/tuhinatripathi/Desktop/Desktop – Tuhina’s MacBook Air/CU/Thesis/Cartpole-IRL/dqn.py:129: UserWarning: indexing with dtype torch.uint8 is now deprecated, please use a dtype torch.bool instead. (Triggered internally at  /Users/distiller/project/conda/conda-bld/pytorch_1646756029501/work/aten/src/ATen/native/IndexingUtils.h:28.)
+  next_state_values[non_final_mask] = self.target_net(non_final_next_states).max(1)[0].detach()
+Episode 193/200 Duration: 200 AVG: 200
+Policy Reward: 200
+ 97%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▏   | 194/200 [02:17<00:04,  1.41it/s]/Users/tuhinatripathi/Desktop/Desktop – Tuhina’s MacBook Air/CU/Thesis/Cartpole-IRL/dqn.py:129: UserWarning: indexing with dtype torch.uint8 is now deprecated, please use a dtype torch.bool instead. (Triggered internally at  /Users/distiller/project/conda/conda-bld/pytorch_1646756029501/work/aten/src/ATen/native/IndexingUtils.h:28.)
+  next_state_values[non_final_mask] = self.target_net(non_final_next_states).max(1)[0].detach()
+Episode 194/200 Duration: 200 AVG: 200
+Policy Reward: 200
+ 98%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▊   | 195/200 [02:18<00:03,  1.42it/s]/Users/tuhinatripathi/Desktop/Desktop – Tuhina’s MacBook Air/CU/Thesis/Cartpole-IRL/dqn.py:129: UserWarning: indexing with dtype torch.uint8 is now deprecated, please use a dtype torch.bool instead. (Triggered internally at  /Users/distiller/project/conda/conda-bld/pytorch_1646756029501/work/aten/src/ATen/native/IndexingUtils.h:28.)
+  next_state_values[non_final_mask] = self.target_net(non_final_next_states).max(1)[0].detach()
+Episode 195/200 Duration: 200 AVG: 200
+Policy Reward: 200
+ 98%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▍  | 196/200 [02:18<00:02,  1.44it/s]/Users/tuhinatripathi/Desktop/Desktop – Tuhina’s MacBook Air/CU/Thesis/Cartpole-IRL/dqn.py:129: UserWarning: indexing with dtype torch.uint8 is now deprecated, please use a dtype torch.bool instead. (Triggered internally at  /Users/distiller/project/conda/conda-bld/pytorch_1646756029501/work/aten/src/ATen/native/IndexingUtils.h:28.)
+  next_state_values[non_final_mask] = self.target_net(non_final_next_states).max(1)[0].detach()
+Episode 196/200 Duration: 200 AVG: 200
+Policy Reward: 200
+ 98%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████  | 197/200 [02:19<00:02,  1.45it/s]/Users/tuhinatripathi/Desktop/Desktop – Tuhina’s MacBook Air/CU/Thesis/Cartpole-IRL/dqn.py:129: UserWarning: indexing with dtype torch.uint8 is now deprecated, please use a dtype torch.bool instead. (Triggered internally at  /Users/distiller/project/conda/conda-bld/pytorch_1646756029501/work/aten/src/ATen/native/IndexingUtils.h:28.)
+  next_state_values[non_final_mask] = self.target_net(non_final_next_states).max(1)[0].detach()
+Episode 197/200 Duration: 200 AVG: 200
+Policy Reward: 200
+ 99%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▋ | 198/200 [02:20<00:01,  1.45it/s]/Users/tuhinatripathi/Desktop/Desktop – Tuhina’s MacBook Air/CU/Thesis/Cartpole-IRL/dqn.py:129: UserWarning: indexing with dtype torch.uint8 is now deprecated, please use a dtype torch.bool instead. (Triggered internally at  /Users/distiller/project/conda/conda-bld/pytorch_1646756029501/work/aten/src/ATen/native/IndexingUtils.h:28.)
+  next_state_values[non_final_mask] = self.target_net(non_final_next_states).max(1)[0].detach()
+Episode 198/200 Duration: 200 AVG: 200
+Policy Reward: 200
+100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▎| 199/200 [02:20<00:00,  1.45it/s]/Users/tuhinatripathi/Desktop/Desktop – Tuhina’s MacBook Air/CU/Thesis/Cartpole-IRL/dqn.py:129: UserWarning: indexing with dtype torch.uint8 is now deprecated, please use a dtype torch.bool instead. (Triggered internally at  /Users/distiller/project/conda/conda-bld/pytorch_1646756029501/work/aten/src/ATen/native/IndexingUtils.h:28.)
+  next_state_values[non_final_mask] = self.target_net(non_final_next_states).max(1)[0].detach()
+Episode 199/200 Duration: 200 AVG: 200
+Policy Reward: 200
+100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 200/200 [02:21<00:00,  1.41it/s]
+Complete
+100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 2000/2000 [01:13<00:00, 27.06it/s]
+tensor([0.4980, 0.4981, 0.4984, 0.4995, 0.2488, 0.2491, 0.2485, 0.4787],
+       dtype=torch.float64)
+200.0
+  0%|                                                                                                                                           | 0/200 [00:00<?, ?it/s]
+Traceback (most recent call last):
+  File "/Users/tuhinatripathi/Desktop/Desktop – Tuhina’s MacBook Air/CU/Thesis/Cartpole-IRL/dqn.py", line 352, in <module>
+    arl.train()
+  File "/Users/tuhinatripathi/Desktop/Desktop – Tuhina’s MacBook Air/CU/Thesis/Cartpole-IRL/dqn.py", line 308, in train
+    robot.train(w_0)
+  File "/Users/tuhinatripathi/Desktop/Desktop – Tuhina’s MacBook Air/CU/Thesis/Cartpole-IRL/dqn.py", line 202, in train
+    reward = rwd_weight.t() @ feat
+RuntimeError: expected scalar type Float but found Double
+(base) Tuhinas-MacBook-Air:Cartpole-IRL tuhinatripathi$ 
